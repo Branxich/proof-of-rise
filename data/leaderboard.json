@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-06-03T10:00:00.000Z",
+  "totals": {
+    "views": 125000,
+    "likes": 3400,
+    "posts": 87,
+    "users": 3
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "Test User",
+      "handle": "testuser",
+      "followers": 1200,
+      "avatar": "",
+      "views": 80000,
+      "likes": 2100,
+      "posts": 45,
+      "mentions": 12,
+      "keyword": 8,
+      "firstPost": "2026-05-01T12:00:00.000Z",
+      "lastPost": "2026-06-02T18:00:00.000Z",
+      "topPosts": [
+        {
+          "text": "RISEx is the fastest onchain perps exchange I've used. Sub-millisecond execution is real.",
+          "id": "123456789",
+          "url": "https://x.com/testuser/status/123456789",
+          "views": 45000,
+          "likes": 1200
+        }
+      ]
+    }
+  ]
+}
