@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-15T06:33:51.351Z",
+  "updatedAt": "2026-08-16T06:35:34.458Z",
   "totals": {
-    "views": 3007468,
-    "likes": 52600,
-    "posts": 18277,
-    "users": 3180
+    "views": 3018798,
+    "likes": 52804,
+    "posts": 18331,
+    "users": 3189
   },
   "users": [
     {
       "id": "83237760",
       "name": "dTfN",
       "handle": "deTEfabulaNar_",
-      "followers": 14751,
+      "followers": 14763,
       "avatar": "https://pbs.twimg.com/profile_images/1986431891147243520/9EwlD0PU_normal.jpg",
-      "views": 213600,
-      "likes": 3227,
-      "posts": 547,
-      "mentions": 547,
+      "views": 216363,
+      "likes": 3268,
+      "posts": 552,
+      "mentions": 552,
       "keyword": 30,
       "firstPost": "Wed Jun 03 13:43:07 +0000 2026",
-      "lastPost": "Fri Aug 14 22:48:52 +0000 2026",
+      "lastPost": "Sat Aug 15 12:39:34 +0000 2026",
       "topPosts": [
         {
           "text": "Perp DEXs 👀\n& volume, OI, TVL\n& last news\n\n@risextrade\n-After the retro points distribution, OI increased to 32M yesterday and 34M today.\n-It looks like the team's plans focused on OI have been working so far.\n-Season 1 points will be distributed on the 28th, giving us the first chance to evaluate point efficiency.\n\n@TxFlow_L1\n-For such a newly launched perp DEX, it's impressive how many trading pairs it offers with virtually any leverage you want. TxFlow really looks like it's been built with serious preparation.\n-The founders are being revealed as well. It seems we'll learn a lot more about the team during this period.\n-Until the points system goes live, this looks like a great opportunity.\n\n@OndoPerps\n-Retro points have been distributed.\n-The total number of points distributed has not been disclosed.\n-Over the next few weeks, I'll be evaluating the efficiency of the points system.\n\n@reya_xyz\n-I think we'll hear new updates from the team very soon.\n-Last week they offered a 2x points opportunity, which turned out to be a really good one.\n\n@hibachi_xyz\n-As of 2026, they've been making more institutional moves.\n-They're pursuing TVL-focused growth.\n-The impact of their ARC relationship hasn't shown up in the metrics yet.\n-But this could become a very surprising perp DEX.\n\n@pacifica_fi\n-They announced they'll distribute 1M points this week for users of the Print feature.\n\n@StandX_Official\n-350M daily volume and 77M OI. Impressive numbers.\n\n@arcus_xyz\n-Even though there's a waitlist, it looks like some people are getting in through the back door.\n-In my opinion, this is turning into a massive bubble.\n\n@jtx_trade\n-I wonder why they're not sharing data with DefiLlama.\n\n@bulktrade\n-Time is running out, and they still haven't managed to deliver a proper product.\n-They started at the peak of the hype, and now perp projects are almost dead while they're still nowhere to be seen.\n\n@DrakeExchange\n-Finally, we'll get to see the product. Looks like they're getting started.\n\n@perpltrade\n-I think their marketing has been seriously impressive lately.\n\n@hellotradeapp\n-When is this baby finally going to start crying?\n-Come on, friend, how much longer are we supposed to wait? :)\n\n@grvt_io TGE loading\n\nOUT OF THE GAME!\n\n@cascade_xyz\n-They posted saying you can withdraw your liquidity. What happened, did your conscience finally kick in?\n-Interestingly, the perp DEX community never really punished those who kept shilling Cascade.\n\n@dango\n-This week, another perp DEX project died.\n-The project is shutting down.\n\n@Ostium\n-Daily volume has dropped to 7M. Recovering after that hack would be nothing short of a miracle.\n\n@AFX_XYZ\n-Daily volumes are around 8M. They never had much volume to begin with, and they were hacked too. For them, the clock will stop soon enough.",
@@ -62,15 +62,15 @@
       "id": "958629309224284162",
       "name": "White Rabbit",
       "handle": "AirdropDuyuru",
-      "followers": 9372,
+      "followers": 9371,
       "avatar": "https://pbs.twimg.com/profile_images/1929195287353942016/n0gmL0iu_normal.jpg",
-      "views": 151650,
-      "likes": 1879,
-      "posts": 274,
-      "mentions": 274,
+      "views": 154971,
+      "likes": 1918,
+      "posts": 276,
+      "mentions": 276,
       "keyword": 22,
       "firstPost": "Wed Jun 03 13:41:52 +0000 2026",
-      "lastPost": "Fri Aug 14 17:00:35 +0000 2026",
+      "lastPost": "Sat Aug 15 12:29:04 +0000 2026",
       "topPosts": [
         {
           "text": "Bugünki @risextrade Yayınında Konuşulanları Soru Cevap Olarak Topladım:\n\n1) RISEx geçmiş işlemlere (retroactive) puan verecek mi?\n\nEvet. Şu anda Season 0 devam ediyor. Platform açıldığından beri yapılan tüm işlemler geriye dönük olarak hesaplanacak ve Season 1 puanlarına dahil edilecek.\n\n2) Season 1 ne zaman başlıyor?\n\nBu ay (Temmuz) başlıyor. \n\nEkip büyük bir duyuru yapacağını söyledi.\n\n3) Puan sistemi hangi metrikleri kullanacak?\n\nSadece hacim değil. Şunlar hesaplanacak:\nTrading Volume\nOpen Interest\nFees\nLiquidations\nTrading Behavior (işlem tarzı)\n\n4) Slippage puan kazandıracak mı?\n\nEvet. Bu oldukça önemli. Diğer Perp DEX'lerin çoğu bunu hesaba katmıyor. RISEx ise market order kullanıp slippage ödeyen kullanıcıları ödüllendirecek.\n\n5) Platform şu ana kadar ne kadar büyüdü?\n\nYaklaşık ilk 3 ayda;\n\n- 2.5 milyar dolar işlem hacmi\n- 640 bin dolar işlem ücreti\n- 80 bin dolar liquidation fee\n\n6) İlk gelecek emtialar hangileri?\n\nİlk etapta; Gold(altın)\nSilver(gümüş)\nOil\n\n7) Spot market geliyor mu?\n\nEvet. Spot market bu çeyreğin en büyük hedeflerinden biri.\n\n8) Yakında gelecek diğer özellikler\n- Netted Margin\n- Builder Codes\n- Advanced Orders\n- TWAP Orders\n- Scale Orders\n\n9) Mobil uygulama geliştirilecek mi?\n\nEvet. En çok gelen geri bildirimlerden biri bu olmuş.\n\n10) Şu anki yarışmada neler kazanılıyor?\n\n- Nakit ödül\n- Mystery Points\n- RISEx World Cup Jersey\n\n11) Fiziksel ödüller devam edecek mi?\n\nEvet.\n\nEkip insanların fiziksel hediyeleri çok sevdiğini fark etmiş. Bu yüzden ileride daha fazla fiziksel ödül planlıyorlar.\n\n12) Neden Fully On Chain önemli?\n\nÇünkü;\n\n- Daha az aracı bulunuyor.\n- Daha düşük maliyet oluşuyor.\n- Daha hızlı settlement sağlanıyor.\n- Daha verimli risk yönetimi yapılabiliyor.\n- Aynı platformda Spot + Perp + Stocks + Commodities + FX birlikte çalışabiliyor.\n- Tek collateral ile tüm piyasalarda işlem yapılabilecek.",
@@ -113,15 +113,15 @@
       "id": "1892944446414528513",
       "name": "Absolut05.hl 🕯",
       "handle": "Absoluto92",
-      "followers": 2252,
+      "followers": 2256,
       "avatar": "https://pbs.twimg.com/profile_images/2007424312232247296/Gj-kx8qT_normal.jpg",
-      "views": 98709,
-      "likes": 2402,
-      "posts": 545,
-      "mentions": 545,
+      "views": 98724,
+      "likes": 2403,
+      "posts": 546,
+      "mentions": 546,
       "keyword": 52,
       "firstPost": "Wed Jun 03 09:33:55 +0000 2026",
-      "lastPost": "Fri Aug 14 18:21:02 +0000 2026",
+      "lastPost": "Sat Aug 15 12:16:21 +0000 2026",
       "topPosts": [
         {
           "text": "Value of a Point on @risextrade \n\n     We finally know details about it. I believe anything between $2.5-$10 is SAFE as long, as they keep building \n\n     We don't know how many Points for Pre-Season➖Personally expecting 1-2.5M but we will find out on 23rd July and I will make calculations again \n     Boosted code or link: absolut05   /   https://t.co/fP1LDm1gl6\n\n     Please guys, tell me for the next one what FDVs and supply are you expecting for @risechain if you think different from what I calculated already \n\n   There aren't many Points distributed which makes them very Valuable. Risechain said that RiseX is the core product so I expect at least 10% of supply given to RiseX traders \n\n  In comparison Lighter distributed around 12.5-13M points so this one will have lower...in 5 months from now seeing 5-10$ OTC price won't be a surprise ✅✅ \n\nAccess code: absolut05",
@@ -541,18 +541,69 @@
       ]
     },
     {
+      "id": "1760585788109074432",
+      "name": "Smart Drop Farmer",
+      "handle": "SmartDropFarmer",
+      "followers": 3277,
+      "avatar": "https://pbs.twimg.com/profile_images/1760586540940505088/ejwcSOvg_normal.jpg",
+      "views": 40765,
+      "likes": 788,
+      "posts": 146,
+      "mentions": 146,
+      "keyword": 27,
+      "firstPost": "Thu Jul 02 08:17:21 +0000 2026",
+      "lastPost": "Sat Aug 15 20:37:48 +0000 2026",
+      "topPosts": [
+        {
+          "text": "Today at 14:00 UTC, @risextrade  distributes its first regular weekly points.\n\nTo celebrate, I've released a major update to the RISEx Community Dashboard.\n\n🔗 https://t.co/UbC70tpt9o\n\nThe dashboard now has two modules:\n\n> FARMING ANALYZER (new)\n\nThis is the feature I'm most excited about.\n\nSimply paste your wallet address.\n\nNo wallet connection.\nNo CSV uploads.\nNo signatures.\n\nThe dashboard automatically analyzes your farming and shows:\n- Weekly/Total trading volume\n- Maker vs Taker breakdown\n- Fees paid\n- Realized PnL\n- Cost per Point\n- Volume per Point\n\nYou can also add your external PnL (hedging, funding, etc.) to calculate your real Cost per Point, making it much easier to evaluate how efficient your farming strategy actually is.\n\n> POINT VALUATION\n\nEstimate the potential value of your RISEx points using Bear, Base and Bull scenarios.\n\nYou can also compare your assumptions against historical Perp DEX launches such as Hyperliquid and Lighter to put your expectations into context.\n\nThe dashboard is completely free, community-built and will continue evolving throughout the campaign.\n\nIf you haven't started farming RISEx yet:\nhttps://t.co/7Bfbvpgqu1\n\nFeedback and feature requests are always welcome.",
+          "id": "2082014445249942021",
+          "url": "https://x.com/SmartDropFarmer/status/2082014445249942021",
+          "views": 5099,
+          "likes": 72
+        },
+        {
+          "text": "I potentially could generated 20k in just 3 weeks farming @risextrade .\n\nI received 1,048.8 retroactive points from Season 0.\n\nHere’s what it took:\n\n- Trading volume: $5.56M\n- Maker volume: $4.06M\n-  Taker volume: $1.50M\n- RISEx fees paid: $856\n- Average fees per $1M: $153.87\n- RISEx fee cost per point: $0.82\n\nPotential value of my allocation:\n\n🔴  Bear — $3/point: $3,146\n$240M FDV · 15% airdrop · 12M total points\n\n🟡  Neutral — $10/point: $10,488\n$800M FDV · 15% airdrop · 12M total points\n\n🟢 Bullish — $17.50/point: $18,354\n$1.4B FDV · 15% airdrop · 12M total points\n\nEven in my bear case, the allocation could be worth 3.7× the RISEx fees paid.\n\nThese estimates exclude Lighter hedging fees, spreads, funding and other delta-neutral execution costs. My real costs and break-even are therefore higher, and the potential net profit would be lower.\n\nStill, based on these numbers, farming RISEx early was clearly worth it for me.\n\nAnd now the interesting part begins.\n\nRegular points will be distributed weekly, so we can finally compare volume, fees and points and optimize the most efficient way to farm RISEx week after week.\n\nHow many points did you receive in Season 0, and how much did you spend on fees?\n\nRISEx is still in private beta. Access codes:\n\nKNI4W8HK\nN436LEK6\nXMXI3YGI\nB3GWIXZF\n\nFirst come, first served.\n\nThese valuations are theoretical. The final value will depend on the official tokenomics, allocation for point holders and total points issued.",
+          "id": "2080295068712268066",
+          "url": "https://x.com/SmartDropFarmer/status/2080295068712268066",
+          "views": 3271,
+          "likes": 70
+        },
+        {
+          "text": "Tomorrow, X will be full of people flexing their @risextrade  points.\n\nSome deserve it.\n\nThey spotted the opportunity early, traded through low liquidity, dealt with wide spreads, and built a large referral network.\n\nGood for them.\n\nBut don't make the mistake of thinking the race is already over.\n\nSeason 1 has just started.\n\nMost of us won't wake up tomorrow with 20,000+ points.\n\nAnd that's perfectly fine.\n\nThe real challenge isn't earning points on Day 1.\n\nIt's building a strategy that keeps earning them month after month.\n\nThat's exactly what I'll be focusing on here:\n\n- Weekly point updates.\n- Strategies I'm testing.\n- What's working (and what isn't).\n- How I'm maximizing points while protecting my capital.\n\nThe days of burning capital just to chase an airdrop are over.\n\nRISEx isn't a sprint.\nIt's a marathon.\n\nP.S. I still have 3 private beta invite codes left. If you haven't joined RISEx yet, feel free to grab one:\n\nEM8JWN2W\nB3GWIXZF\n5XNCMTXZ\n\nFirst come, first served.",
+          "id": "2079846409285870069",
+          "url": "https://x.com/SmartDropFarmer/status/2079846409285870069",
+          "views": 2410,
+          "likes": 73
+        },
+        {
+          "text": "RISEx distributed its first regular weekly points, and Week 1 was far more efficient than my retroactive farming.\n\nMy results in Week 1 on @risextrade\n\n🔹 336 points\n\n- $1.09M volume\n- $144 in RISEx fees\n- $0.43 cost per point\n- $3,248 volume per point\n- 90% maker / 10% taker\n\n> My strategy:\n\n- Daily volume on BTC and ETH\n- Mostly limit orders to reduce fees\n- Longer-held positions on Gold, Silver, CL and Brent\n\n>The result?\n\nMy cost dropped from $0.82 per point during Season 0 to $0.43 in Week 1, an efficiency improvement of almost 48%.\n\nFor now, I’m using $4 per point as my personal benchmark.\n\nThat scenario assumes:\n\n- $320M hypothetical FDV\n- 15% allocated to point holders\n- 12M estimated total points\n\nApplied to Week 1:\n\n- 336 points × $4 = $1,344\n- RISEx fees: ~$144\n- Theoretical value after fees: ~$1,200\n\nTheoretical point value: 9.3× my RISEx fees\n\nThis excludes spreads, funding, hedging costs and trading PnL. The $4 figure is not an official valuation, just the benchmark I use to measure efficiency.\n\nAs long as my real cost remains comfortably below it, I’ll keep farming, testing strategies and sharing the results.\n\nWeek 1: $0.43 per point. Now it’s time to optimize Week 2.\n\nJoin RISEx private beta through my referral:\n\nhttps://t.co/cgeC7ss7Bx",
+          "id": "2082110774596583768",
+          "url": "https://x.com/SmartDropFarmer/status/2082110774596583768",
+          "views": 2105,
+          "likes": 29
+        },
+        {
+          "text": "Welcome to the first edition of Week 1 Community Insights.\n\nA weekly report built from anonymous community submissions to better understand how @risextrade  distributes farming points.\n\nThis first edition is based on data from 29 community wallets.\n\nEnough to start comparing three different farming profiles:\n\n> Community Median: What did a typical farmer achieve?\n\n> Top Points: What did the highest-scoring wallet do?\n\n> Best Fee Efficiency: Who farmed at the lowest Cost per Point?\n\nThe idea isn't just to calculate your Cost per Point.\n\nIt's to help the community understand how RISEx rewards its farmers.\n\nThe dashboard lets you:\n\n- Paste your wallet (no wallet connection required).\n- Analyze your weekly farming activity.\n- Calculate your Cost per Point.\n- Estimate the potential value of your points.\n- Generate shareable summaries.\n- Optionally contribute your results anonymously with one click.\n\nToday at 14:00 UTC, RISEx distributes the next weekly farming rewards.\n\nI'd love to make Week 2 Community Insights much more representative than Week 1.\n\nThe more wallets contribute, the better we'll understand questions like:\n\n- Does volume matter the most?\n- Is maker activity rewarded?\n- Do active days make a difference?\n- Which markets seem to perform best?\n- How does the distribution evolve week after week?\n\nThis won't reveal the official RISEx formula, but it will help us identify real patterns from community data.\n\n👇 I'll reply to this tweet with a quick tutorial on how to contribute your results anonymously.\n\n> Curious after checking your wallet:\n\nAre you above or below the Community Median?\n\nLeave a comment!\n\nWeek 1 is based on 29 community submissions, most of them coming from my own circle of active RISEx farmers, so it's only the starting point.\n\nHopefully, with your help, Week 2 Community Insights will be much larger and even more representative.\n\nEvery anonymous contribution helps the entire community better understand how RISEx distributes points.",
+          "id": "2084546366454325728",
+          "url": "https://x.com/SmartDropFarmer/status/2084546366454325728",
+          "views": 1892,
+          "likes": 24
+        }
+      ]
+    },
+    {
       "id": "1478739616765251588",
       "name": "Baneo.rise",
       "handle": "eltiodelbaneo",
-      "followers": 4382,
+      "followers": 4384,
       "avatar": "https://pbs.twimg.com/profile_images/2072734955021492224/fjYEXUbs_normal.jpg",
-      "views": 40186,
-      "likes": 1093,
-      "posts": 141,
-      "mentions": 141,
+      "views": 40219,
+      "likes": 1094,
+      "posts": 142,
+      "mentions": 142,
       "keyword": 23,
       "firstPost": "Tue Jun 09 12:03:42 +0000 2026",
-      "lastPost": "Fri Aug 14 15:24:44 +0000 2026",
+      "lastPost": "Sat Aug 15 11:36:48 +0000 2026",
       "topPosts": [
         {
           "text": "Everyone is talking about the hack at @risextrade.\n\nI'm looking at the response.\n\n$700k was compromised, but the team stepped up immediately and fully covered the loss using July's protocol fees.\n\nThe DEX kept running without interruption, and not a single dollar of user funds was affected.\n\nThis is exactly what the early stage is for: finding vulnerabilities, fixing them, and coming back stronger.\n\nProtocols shouldn't be judged by whether they ever make mistakes.\n\nThey should be judged by how they respond when they do.\n\nToday, I have more confidence in RISEx than I did yesterday.\n\nOh, and weekly points are dropping in just a few hours.\n\nTime to Rise.",
@@ -639,57 +690,6 @@
           "url": "https://x.com/hypingbull/status/2084641911961264444",
           "views": 2696,
           "likes": 56
-        }
-      ]
-    },
-    {
-      "id": "1760585788109074432",
-      "name": "Smart Drop Farmer",
-      "handle": "SmartDropFarmer",
-      "followers": 3265,
-      "avatar": "https://pbs.twimg.com/profile_images/1760586540940505088/ejwcSOvg_normal.jpg",
-      "views": 38811,
-      "likes": 738,
-      "posts": 142,
-      "mentions": 142,
-      "keyword": 26,
-      "firstPost": "Thu Jul 02 08:17:21 +0000 2026",
-      "lastPost": "Thu Aug 13 20:06:03 +0000 2026",
-      "topPosts": [
-        {
-          "text": "Today at 14:00 UTC, @risextrade  distributes its first regular weekly points.\n\nTo celebrate, I've released a major update to the RISEx Community Dashboard.\n\n🔗 https://t.co/UbC70tpt9o\n\nThe dashboard now has two modules:\n\n> FARMING ANALYZER (new)\n\nThis is the feature I'm most excited about.\n\nSimply paste your wallet address.\n\nNo wallet connection.\nNo CSV uploads.\nNo signatures.\n\nThe dashboard automatically analyzes your farming and shows:\n- Weekly/Total trading volume\n- Maker vs Taker breakdown\n- Fees paid\n- Realized PnL\n- Cost per Point\n- Volume per Point\n\nYou can also add your external PnL (hedging, funding, etc.) to calculate your real Cost per Point, making it much easier to evaluate how efficient your farming strategy actually is.\n\n> POINT VALUATION\n\nEstimate the potential value of your RISEx points using Bear, Base and Bull scenarios.\n\nYou can also compare your assumptions against historical Perp DEX launches such as Hyperliquid and Lighter to put your expectations into context.\n\nThe dashboard is completely free, community-built and will continue evolving throughout the campaign.\n\nIf you haven't started farming RISEx yet:\nhttps://t.co/7Bfbvpgqu1\n\nFeedback and feature requests are always welcome.",
-          "id": "2082014445249942021",
-          "url": "https://x.com/SmartDropFarmer/status/2082014445249942021",
-          "views": 5099,
-          "likes": 72
-        },
-        {
-          "text": "I potentially could generated 20k in just 3 weeks farming @risextrade .\n\nI received 1,048.8 retroactive points from Season 0.\n\nHere’s what it took:\n\n- Trading volume: $5.56M\n- Maker volume: $4.06M\n-  Taker volume: $1.50M\n- RISEx fees paid: $856\n- Average fees per $1M: $153.87\n- RISEx fee cost per point: $0.82\n\nPotential value of my allocation:\n\n🔴  Bear — $3/point: $3,146\n$240M FDV · 15% airdrop · 12M total points\n\n🟡  Neutral — $10/point: $10,488\n$800M FDV · 15% airdrop · 12M total points\n\n🟢 Bullish — $17.50/point: $18,354\n$1.4B FDV · 15% airdrop · 12M total points\n\nEven in my bear case, the allocation could be worth 3.7× the RISEx fees paid.\n\nThese estimates exclude Lighter hedging fees, spreads, funding and other delta-neutral execution costs. My real costs and break-even are therefore higher, and the potential net profit would be lower.\n\nStill, based on these numbers, farming RISEx early was clearly worth it for me.\n\nAnd now the interesting part begins.\n\nRegular points will be distributed weekly, so we can finally compare volume, fees and points and optimize the most efficient way to farm RISEx week after week.\n\nHow many points did you receive in Season 0, and how much did you spend on fees?\n\nRISEx is still in private beta. Access codes:\n\nKNI4W8HK\nN436LEK6\nXMXI3YGI\nB3GWIXZF\n\nFirst come, first served.\n\nThese valuations are theoretical. The final value will depend on the official tokenomics, allocation for point holders and total points issued.",
-          "id": "2080295068712268066",
-          "url": "https://x.com/SmartDropFarmer/status/2080295068712268066",
-          "views": 3271,
-          "likes": 70
-        },
-        {
-          "text": "Tomorrow, X will be full of people flexing their @risextrade  points.\n\nSome deserve it.\n\nThey spotted the opportunity early, traded through low liquidity, dealt with wide spreads, and built a large referral network.\n\nGood for them.\n\nBut don't make the mistake of thinking the race is already over.\n\nSeason 1 has just started.\n\nMost of us won't wake up tomorrow with 20,000+ points.\n\nAnd that's perfectly fine.\n\nThe real challenge isn't earning points on Day 1.\n\nIt's building a strategy that keeps earning them month after month.\n\nThat's exactly what I'll be focusing on here:\n\n- Weekly point updates.\n- Strategies I'm testing.\n- What's working (and what isn't).\n- How I'm maximizing points while protecting my capital.\n\nThe days of burning capital just to chase an airdrop are over.\n\nRISEx isn't a sprint.\nIt's a marathon.\n\nP.S. I still have 3 private beta invite codes left. If you haven't joined RISEx yet, feel free to grab one:\n\nEM8JWN2W\nB3GWIXZF\n5XNCMTXZ\n\nFirst come, first served.",
-          "id": "2079846409285870069",
-          "url": "https://x.com/SmartDropFarmer/status/2079846409285870069",
-          "views": 2410,
-          "likes": 73
-        },
-        {
-          "text": "RISEx distributed its first regular weekly points, and Week 1 was far more efficient than my retroactive farming.\n\nMy results in Week 1 on @risextrade\n\n🔹 336 points\n\n- $1.09M volume\n- $144 in RISEx fees\n- $0.43 cost per point\n- $3,248 volume per point\n- 90% maker / 10% taker\n\n> My strategy:\n\n- Daily volume on BTC and ETH\n- Mostly limit orders to reduce fees\n- Longer-held positions on Gold, Silver, CL and Brent\n\n>The result?\n\nMy cost dropped from $0.82 per point during Season 0 to $0.43 in Week 1, an efficiency improvement of almost 48%.\n\nFor now, I’m using $4 per point as my personal benchmark.\n\nThat scenario assumes:\n\n- $320M hypothetical FDV\n- 15% allocated to point holders\n- 12M estimated total points\n\nApplied to Week 1:\n\n- 336 points × $4 = $1,344\n- RISEx fees: ~$144\n- Theoretical value after fees: ~$1,200\n\nTheoretical point value: 9.3× my RISEx fees\n\nThis excludes spreads, funding, hedging costs and trading PnL. The $4 figure is not an official valuation, just the benchmark I use to measure efficiency.\n\nAs long as my real cost remains comfortably below it, I’ll keep farming, testing strategies and sharing the results.\n\nWeek 1: $0.43 per point. Now it’s time to optimize Week 2.\n\nJoin RISEx private beta through my referral:\n\nhttps://t.co/cgeC7ss7Bx",
-          "id": "2082110774596583768",
-          "url": "https://x.com/SmartDropFarmer/status/2082110774596583768",
-          "views": 2105,
-          "likes": 29
-        },
-        {
-          "text": "Welcome to the first edition of Week 1 Community Insights.\n\nA weekly report built from anonymous community submissions to better understand how @risextrade  distributes farming points.\n\nThis first edition is based on data from 29 community wallets.\n\nEnough to start comparing three different farming profiles:\n\n> Community Median: What did a typical farmer achieve?\n\n> Top Points: What did the highest-scoring wallet do?\n\n> Best Fee Efficiency: Who farmed at the lowest Cost per Point?\n\nThe idea isn't just to calculate your Cost per Point.\n\nIt's to help the community understand how RISEx rewards its farmers.\n\nThe dashboard lets you:\n\n- Paste your wallet (no wallet connection required).\n- Analyze your weekly farming activity.\n- Calculate your Cost per Point.\n- Estimate the potential value of your points.\n- Generate shareable summaries.\n- Optionally contribute your results anonymously with one click.\n\nToday at 14:00 UTC, RISEx distributes the next weekly farming rewards.\n\nI'd love to make Week 2 Community Insights much more representative than Week 1.\n\nThe more wallets contribute, the better we'll understand questions like:\n\n- Does volume matter the most?\n- Is maker activity rewarded?\n- Do active days make a difference?\n- Which markets seem to perform best?\n- How does the distribution evolve week after week?\n\nThis won't reveal the official RISEx formula, but it will help us identify real patterns from community data.\n\n👇 I'll reply to this tweet with a quick tutorial on how to contribute your results anonymously.\n\n> Curious after checking your wallet:\n\nAre you above or below the Community Median?\n\nLeave a comment!\n\nWeek 1 is based on 29 community submissions, most of them coming from my own circle of active RISEx farmers, so it's only the starting point.\n\nHopefully, with your help, Week 2 Community Insights will be much larger and even more representative.\n\nEvery anonymous contribution helps the entire community better understand how RISEx distributes points.",
-          "id": "2084546366454325728",
-          "url": "https://x.com/SmartDropFarmer/status/2084546366454325728",
-          "views": 1892,
-          "likes": 24
         }
       ]
     },
@@ -1003,15 +1003,15 @@
       "id": "1654899760015212545",
       "name": "Le𝕏 Moreno🐯| Criptomonedas",
       "handle": "LexMorenoCripto",
-      "followers": 14857,
+      "followers": 14853,
       "avatar": "https://pbs.twimg.com/profile_images/1889593264027668480/OHcVJ08A_normal.png",
-      "views": 27994,
-      "likes": 325,
-      "posts": 45,
-      "mentions": 45,
+      "views": 28046,
+      "likes": 327,
+      "posts": 46,
+      "mentions": 46,
       "keyword": 3,
       "firstPost": "Fri Jul 10 10:22:45 +0000 2026",
-      "lastPost": "Fri Aug 14 11:42:14 +0000 2026",
+      "lastPost": "Sat Aug 15 11:33:57 +0000 2026",
       "topPosts": [
         {
           "text": "Confirmados 11.4M totales de puntos actualmente en @risextrade \n\nLa tabla que puse el otro día MUY ACERTADA por el momento si no contamos con más de 600k points de dilución y 49 semanas\n\nAsí podéis sacar el cálculo coste punto y el beneficio neto\n\nEn llegar a casa lo miraré🧐 https://t.co/YS77y4H9zz",
@@ -1258,15 +1258,15 @@
       "id": "1749841053895589888",
       "name": "𝐏𝐫𝐨𝐬𝐜𝐫𝐢𝐭𝐨 𝐈𝐧𝐯𝐞𝐬𝐭 | Crypto & Macro",
       "handle": "ProscritoInvest",
-      "followers": 7287,
+      "followers": 7289,
       "avatar": "https://pbs.twimg.com/profile_images/2071023159634014209/KhAJtQVk_normal.jpg",
-      "views": 22043,
+      "views": 22074,
       "likes": 313,
-      "posts": 84,
-      "mentions": 84,
+      "posts": 86,
+      "mentions": 86,
       "keyword": 7,
       "firstPost": "Thu Jul 09 18:37:04 +0000 2026",
-      "lastPost": "Fri Aug 14 19:21:32 +0000 2026",
+      "lastPost": "Sat Aug 15 15:34:17 +0000 2026",
       "topPosts": [
         {
           "text": "Vuelve la guerra de los perp dexes y tú joven padawan debes decidir que lado escoger.\n\nPorque no puedes coger un charmander y un squirtle a la vez ni ser jedi y sith al mismo tiempo.\n\nEl lado de @risextrade:\n\n-Con el TVL en $17M en apenas unos meses de vida creciendo cada día.\n-Subidas exponenciales en tamaño de posición, traders activos, OI, volumen acumulado, daily volumen, cumulative fees\n-Inversores top\n-Moat en composabilidad con MORPH\n\nEl lado del resto de perp dexes de nueva ola cuyo moat es que el ecosistema de un meme que va abajo a la derecha haga un crimen.\n\nRecuerda que hubo gente que farmeó Lighter y otra que farmeó Ostium, Paradex, Backpack etc.\n\nEn este nuevo ciclo pasará lo mismo.\n\nAhora tú decides si quieres diluirte o centrarte en el siguiente winner.",
@@ -2138,6 +2138,57 @@
       ]
     },
     {
+      "id": "1544608563653496833",
+      "name": "Mr. Butler.hl",
+      "handle": "MrButlerhl",
+      "followers": 1212,
+      "avatar": "https://pbs.twimg.com/profile_images/1921994397505232897/pXk8i_CO_normal.jpg",
+      "views": 14052,
+      "likes": 264,
+      "posts": 94,
+      "mentions": 94,
+      "keyword": 9,
+      "firstPost": "Tue Jun 09 12:10:02 +0000 2026",
+      "lastPost": "Sat Aug 15 17:52:01 +0000 2026",
+      "topPosts": [
+        {
+          "text": "I've seen people saying it's way harder to earn points on @variational_io .\n\nI don't know, frendo. I'm getting pretty much the same results as always just running the DN strat across @risextrade , @tradexyz  for equities, and @extendedapp \n\nFarming funding makes the cost basically zero.\n\n80k volume, almost 6 points.\n\nChange your strategy.",
+          "id": "2068259519629496370",
+          "url": "https://x.com/MrButlerhl/status/2068259519629496370",
+          "views": 1865,
+          "likes": 26
+        },
+        {
+          "text": "Yoooooo,\n\nHappy with the points! Only 80k volume this week. \nTriying to go all in this week if market permits.\n\nLet's go @risextrade https://t.co/VyVvAn7Cun",
+          "id": "2082132553104851436",
+          "url": "https://x.com/MrButlerhl/status/2082132553104851436",
+          "views": 1251,
+          "likes": 46
+        },
+        {
+          "text": "Is it really that hard for perp DEXs to do it like @risextrade ?\n\nPNL = realized PNL + funding.\n\nIt’s the small things, but they really show the quality of the product and that they’re taking their time to build everything properly.\n\nVariational doesn’t show it either, but that side was -$2.5.\n\nAnother delta neutral that worked out nicely on Risex. Just need more pairs now 🤝",
+          "id": "2088164364616380811",
+          "url": "https://x.com/MrButlerhl/status/2088164364616380811",
+          "views": 1173,
+          "likes": 21
+        },
+        {
+          "text": "Long every dip en every platform \n@risextrade \n@nansen_ai (wen pnl cards?)\n@Borsa_HL https://t.co/uS5fax6ZT3",
+          "id": "2067280694871544264",
+          "url": "https://x.com/MrButlerhl/status/2067280694871544264",
+          "views": 1129,
+          "likes": 4
+        },
+        {
+          "text": "Yoooooo, @risextrade  trade points are finally out.\n\nNot bad considering I've been on holiday since July 1st. Almost all of these points came from just ~700k volume back in early June.\n\nThis is why getting in early matters.\n\nBack to the grind on Monday, frendos.\n\nCurrent farming focus:\n\n@TxFlow_L1 : If you've been following me, you know I've been farming it since mid June. It's now becoming the new perp DEX everyone is talking about. Great features, insane liquidity backed by a CEX I won't name, and overall the project looks VERY solid.\n\nDon't fade it. Hidden season with retroactive points:\nhttps://t.co/eJKrIvm9AK\n\n@get_truenorth  Another underrated one I've been farming for a while. It's an AI trading agent that analyzes your trades, points out your mistakes, and helps you improve. It also has market insights and data that most AI tools don't have access to.\n\nI'd recommend signing up just to try the AI. There's also a hidden points season with very little dilution, although you only earn points if you trade:\nhttps://t.co/t3fJR0tQxw\n\n@risextrade  : I'm out of invite codes... wen affiliate, @sam_battenally ? 😂\n\nAnd obviously @variational_io . It's still the center of my farming strategy. Most of the liquidity is there, and I use the other perp DEXs for delta-neutral positions, especially @TxFlow_L1  because of the large number of RWA pairs.",
+          "id": "2080556318742487382",
+          "url": "https://x.com/MrButlerhl/status/2080556318742487382",
+          "views": 978,
+          "likes": 36
+        }
+      ]
+    },
+    {
       "id": "935948665407049729",
       "name": "RobSVR PerpsMania",
       "handle": "Robsvr",
@@ -2185,57 +2236,6 @@
           "url": "https://x.com/Robsvr/status/2072017239046340828",
           "views": 664,
           "likes": 25
-        }
-      ]
-    },
-    {
-      "id": "1544608563653496833",
-      "name": "Mr. Butler.hl",
-      "handle": "MrButlerhl",
-      "followers": 1210,
-      "avatar": "https://pbs.twimg.com/profile_images/1921994397505232897/pXk8i_CO_normal.jpg",
-      "views": 13753,
-      "likes": 258,
-      "posts": 93,
-      "mentions": 93,
-      "keyword": 9,
-      "firstPost": "Tue Jun 09 12:10:02 +0000 2026",
-      "lastPost": "Fri Aug 14 16:15:44 +0000 2026",
-      "topPosts": [
-        {
-          "text": "I've seen people saying it's way harder to earn points on @variational_io .\n\nI don't know, frendo. I'm getting pretty much the same results as always just running the DN strat across @risextrade , @tradexyz  for equities, and @extendedapp \n\nFarming funding makes the cost basically zero.\n\n80k volume, almost 6 points.\n\nChange your strategy.",
-          "id": "2068259519629496370",
-          "url": "https://x.com/MrButlerhl/status/2068259519629496370",
-          "views": 1865,
-          "likes": 26
-        },
-        {
-          "text": "Yoooooo,\n\nHappy with the points! Only 80k volume this week. \nTriying to go all in this week if market permits.\n\nLet's go @risextrade https://t.co/VyVvAn7Cun",
-          "id": "2082132553104851436",
-          "url": "https://x.com/MrButlerhl/status/2082132553104851436",
-          "views": 1251,
-          "likes": 46
-        },
-        {
-          "text": "Is it really that hard for perp DEXs to do it like @risextrade ?\n\nPNL = realized PNL + funding.\n\nIt’s the small things, but they really show the quality of the product and that they’re taking their time to build everything properly.\n\nVariational doesn’t show it either, but that side was -$2.5.\n\nAnother delta neutral that worked out nicely on Risex. Just need more pairs now 🤝",
-          "id": "2088164364616380811",
-          "url": "https://x.com/MrButlerhl/status/2088164364616380811",
-          "views": 1173,
-          "likes": 21
-        },
-        {
-          "text": "Long every dip en every platform \n@risextrade \n@nansen_ai (wen pnl cards?)\n@Borsa_HL https://t.co/uS5fax6ZT3",
-          "id": "2067280694871544264",
-          "url": "https://x.com/MrButlerhl/status/2067280694871544264",
-          "views": 1129,
-          "likes": 4
-        },
-        {
-          "text": "Yoooooo, @risextrade  trade points are finally out.\n\nNot bad considering I've been on holiday since July 1st. Almost all of these points came from just ~700k volume back in early June.\n\nThis is why getting in early matters.\n\nBack to the grind on Monday, frendos.\n\nCurrent farming focus:\n\n@TxFlow_L1 : If you've been following me, you know I've been farming it since mid June. It's now becoming the new perp DEX everyone is talking about. Great features, insane liquidity backed by a CEX I won't name, and overall the project looks VERY solid.\n\nDon't fade it. Hidden season with retroactive points:\nhttps://t.co/eJKrIvm9AK\n\n@get_truenorth  Another underrated one I've been farming for a while. It's an AI trading agent that analyzes your trades, points out your mistakes, and helps you improve. It also has market insights and data that most AI tools don't have access to.\n\nI'd recommend signing up just to try the AI. There's also a hidden points season with very little dilution, although you only earn points if you trade:\nhttps://t.co/t3fJR0tQxw\n\n@risextrade  : I'm out of invite codes... wen affiliate, @sam_battenally ? 😂\n\nAnd obviously @variational_io . It's still the center of my farming strategy. Most of the liquidity is there, and I use the other perp DEXs for delta-neutral positions, especially @TxFlow_L1  because of the large number of RWA pairs.",
-          "id": "2080556318742487382",
-          "url": "https://x.com/MrButlerhl/status/2080556318742487382",
-          "views": 978,
-          "likes": 36
         }
       ]
     },
@@ -2368,15 +2368,15 @@
       "id": "1393982985192579077",
       "name": "Matyv 🔆",
       "handle": "matyv_7",
-      "followers": 3888,
+      "followers": 3892,
       "avatar": "https://pbs.twimg.com/profile_images/2055664248403972096/CeHmH1kv_normal.jpg",
-      "views": 12133,
-      "likes": 301,
-      "posts": 166,
-      "mentions": 166,
+      "views": 12176,
+      "likes": 302,
+      "posts": 167,
+      "mentions": 167,
       "keyword": 15,
       "firstPost": "Wed Jun 03 16:19:18 +0000 2026",
-      "lastPost": "Fri Aug 14 12:49:52 +0000 2026",
+      "lastPost": "Sat Aug 15 13:11:29 +0000 2026",
       "topPosts": [
         {
           "text": "Season 1 on @risextrade has just started\n\n- 200k points will be distributed weekly.\n- Season 1 will end no later than Q2 2027.\n- Retroactive points for early activity will be distributed on July 23.\n\nCurrent RiseX stats:\n\n- 24h volume: $88M\n- 7D volume: $602M\n- Cumulative volume: $3B\n- Open Interest: $19M\n\nFor people who want to start accumulating points from the beginning, I only have 2 codes left:\n\nRTPEGF57 \n8H14N2WN",
@@ -2521,15 +2521,15 @@
       "id": "1256419650956660736",
       "name": "Sam (Interop Enjoyoor 💜)",
       "handle": "sam6170",
-      "followers": 10966,
+      "followers": 10865,
       "avatar": "https://pbs.twimg.com/profile_images/1972075627512561664/dadPNKCN_normal.jpg",
-      "views": 11621,
-      "likes": 138,
-      "posts": 14,
-      "mentions": 14,
+      "views": 11701,
+      "likes": 139,
+      "posts": 15,
+      "mentions": 15,
       "keyword": 1,
       "firstPost": "Sun Jul 19 18:02:31 +0000 2026",
-      "lastPost": "Tue Jul 21 22:11:34 +0000 2026",
+      "lastPost": "Sat Aug 15 17:30:31 +0000 2026",
       "topPosts": [
         {
           "text": "If you are looking to push volume on @risextrade using the @tread_fi MM bot, here is the setup I applied and here is how to set it up. \n\n1. By the right hand side, go to https://t.co/dh91mkUkvt then press the wallet icon to link your rise x wallet.. \n\n2. After connecting your rise x wallet, fill in the parameters in the volume bot section with the following: \n\n- Select the account you want to push volume on. (rise x)\n\n- Input the amount of margin you want to use to push volume.. \n\n- Adjust the participation rate to normal \n\n- Adjust the reference price to Rgrid\n\n- Set TP reset threshold on 0.25% \n\n- SL on 10% and TP uncapped \n\n- Lastly, press start trading. \n\nPlease note: R-grid follows the trend of the market so being careful is very important.",
@@ -3571,15 +3571,15 @@
       "id": "1469764562392076296",
       "name": "yyvvoo",
       "handle": "yyvvo0",
-      "followers": 647,
+      "followers": 648,
       "avatar": "https://pbs.twimg.com/profile_images/1622332559018397696/jEIgQO4K_normal.jpg",
-      "views": 7888,
-      "likes": 217,
-      "posts": 122,
-      "mentions": 122,
+      "views": 7942,
+      "likes": 219,
+      "posts": 124,
+      "mentions": 124,
       "keyword": 21,
       "firstPost": "Tue Jul 07 17:19:48 +0000 2026",
-      "lastPost": "Fri Aug 14 18:43:02 +0000 2026",
+      "lastPost": "Sat Aug 15 16:15:14 +0000 2026",
       "topPosts": [
         {
           "text": "𝗥𝗜𝗦𝗘𝗫 𝗜𝗦 𝗧𝗛𝗘 𝗡𝗘𝗫𝗧 𝗩𝗔𝗥𝗜𝗔𝗧𝗜𝗢𝗡𝗔𝗟!\n\nI believe that @risextrade will enter the top 10 perp dexes in time, I think the metrics could grow 10-fold!\n\n@variational_io allocated 30% of retro points before the launch of the point system, @risextrade the point system has not yet been introduced, u have time!\n\nRiseX - approaching the product intelligently, updating it almost daily and developing it, sharing information, they'll soon add FX markets and the volumes will increase even more. \n\nThey'll also soon launch a point system, this is your chance for early points👇\n\nhttps://t.co/82j1Mu3hC3\n\nacces codes: JXS0SEL3 | 8UCJTQXA",
@@ -5167,6 +5167,57 @@
       ]
     },
     {
+      "id": "1450587006317248514",
+      "name": "cryptoman_alex 🇺🇦",
+      "handle": "cryptoman_alex",
+      "followers": 949,
+      "avatar": "https://pbs.twimg.com/profile_images/1983477189526884352/pgK0zczD_normal.jpg",
+      "views": 4720,
+      "likes": 146,
+      "posts": 78,
+      "mentions": 78,
+      "keyword": 2,
+      "firstPost": "Mon Jul 20 11:05:04 +0000 2026",
+      "lastPost": "Sat Aug 15 20:12:41 +0000 2026",
+      "topPosts": [
+        {
+          "text": "CEXs froze my buddy’s funds for KYC. Insane. \n\nNever again. \n\nMoved everything to @risextrade—pure self-custody, zero middlemen, absolute freedom. \n\nProtect your bags, anon.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/K7sc81vW9K",
+          "id": "2086078123951464844",
+          "url": "https://x.com/cryptoman_alex/status/2086078123951464844",
+          "views": 324,
+          "likes": 6
+        },
+        {
+          "text": "Just watched another friend get his funds frozen on a CEX for \"routine KYC.\" \n\nAbsolute clown show. \n\nTake your keys back, anon. Trade with zero counterparty risk on @risextrade. \n\nStay safe.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/dvYKuzFrmT",
+          "id": "2085413550206406944",
+          "url": "https://x.com/cryptoman_alex/status/2085413550206406944",
+          "views": 263,
+          "likes": 5
+        },
+        {
+          "text": "just watched another friend get his funds frozen on a CEX for \"routine checks.\" \n\nngmi if you keep your bags there. \n\nself-custody isn't a flex anymore, it's survival. moved everything to @risextrade. \n\n stay safe out there, anons.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/oq7zaZtZb5",
+          "id": "2086319569946259599",
+          "url": "https://x.com/cryptoman_alex/status/2086319569946259599",
+          "views": 186,
+          "likes": 3
+        },
+        {
+          "text": "just watched another friend get his funds locked on a CEX for \"routine KYC.\" 💀 \n\nser, you don’t own your bag until it’s on-chain. \n\nnever going back. traded my size on @risextrade today and slept like a baby. \n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/rlLx3w4S2L",
+          "id": "2085172151368233328",
+          "url": "https://x.com/cryptoman_alex/status/2085172151368233328",
+          "views": 178,
+          "likes": 3
+        },
+        {
+          "text": "Just watched another CEX freeze withdrawals. \n\nIf your keys aren't in your wallet, you are just exit liquidity waiting to get rekt, anon. \n\nTake back control. Trade on @risextrade and stay based.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/IwauYXMKwt",
+          "id": "2085292749998248445",
+          "url": "https://x.com/cryptoman_alex/status/2085292749998248445",
+          "views": 174,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "790444570601369600",
       "name": "sashaaa",
       "handle": "sashaaa",
@@ -5207,57 +5258,6 @@
           "url": "https://x.com/sashaaa/status/2070435916607545478",
           "views": 21,
           "likes": 2
-        }
-      ]
-    },
-    {
-      "id": "1450587006317248514",
-      "name": "cryptoman_alex 🇺🇦",
-      "handle": "cryptoman_alex",
-      "followers": 948,
-      "avatar": "https://pbs.twimg.com/profile_images/1983477189526884352/pgK0zczD_normal.jpg",
-      "views": 4591,
-      "likes": 139,
-      "posts": 76,
-      "mentions": 76,
-      "keyword": 2,
-      "firstPost": "Mon Jul 20 11:05:04 +0000 2026",
-      "lastPost": "Fri Aug 14 18:12:48 +0000 2026",
-      "topPosts": [
-        {
-          "text": "CEXs froze my buddy’s funds for KYC. Insane. \n\nNever again. \n\nMoved everything to @risextrade—pure self-custody, zero middlemen, absolute freedom. \n\nProtect your bags, anon.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/K7sc81vW9K",
-          "id": "2086078123951464844",
-          "url": "https://x.com/cryptoman_alex/status/2086078123951464844",
-          "views": 324,
-          "likes": 6
-        },
-        {
-          "text": "Just watched another friend get his funds frozen on a CEX for \"routine KYC.\" \n\nAbsolute clown show. \n\nTake your keys back, anon. Trade with zero counterparty risk on @risextrade. \n\nStay safe.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/dvYKuzFrmT",
-          "id": "2085413550206406944",
-          "url": "https://x.com/cryptoman_alex/status/2085413550206406944",
-          "views": 263,
-          "likes": 5
-        },
-        {
-          "text": "just watched another friend get his funds frozen on a CEX for \"routine checks.\" \n\nngmi if you keep your bags there. \n\nself-custody isn't a flex anymore, it's survival. moved everything to @risextrade. \n\n stay safe out there, anons.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/oq7zaZtZb5",
-          "id": "2086319569946259599",
-          "url": "https://x.com/cryptoman_alex/status/2086319569946259599",
-          "views": 186,
-          "likes": 3
-        },
-        {
-          "text": "just watched another friend get his funds locked on a CEX for \"routine KYC.\" 💀 \n\nser, you don’t own your bag until it’s on-chain. \n\nnever going back. traded my size on @risextrade today and slept like a baby. \n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/rlLx3w4S2L",
-          "id": "2085172151368233328",
-          "url": "https://x.com/cryptoman_alex/status/2085172151368233328",
-          "views": 178,
-          "likes": 3
-        },
-        {
-          "text": "Just watched another CEX freeze withdrawals. \n\nIf your keys aren't in your wallet, you are just exit liquidity waiting to get rekt, anon. \n\nTake back control. Trade on @risextrade and stay based.\n\n#PerpDEX #DeFi #Crypto @risextrade https://t.co/IwauYXMKwt",
-          "id": "2085292749998248445",
-          "url": "https://x.com/cryptoman_alex/status/2085292749998248445",
-          "views": 174,
-          "likes": 1
         }
       ]
     },
@@ -6481,6 +6481,57 @@
       ]
     },
     {
+      "id": "2073048856393302016",
+      "name": "BraveX",
+      "handle": "BraveX_DeFi",
+      "followers": 126,
+      "avatar": "https://pbs.twimg.com/profile_images/2075368998187716608/mhfvvHif_normal.jpg",
+      "views": 3634,
+      "likes": 45,
+      "posts": 37,
+      "mentions": 37,
+      "keyword": 5,
+      "firstPost": "Mon Jul 13 00:03:17 +0000 2026",
+      "lastPost": "Sat Aug 15 19:33:58 +0000 2026",
+      "topPosts": [
+        {
+          "text": "This Monday, 7.5% of all points in @extendedapp were removed 💀\n\nAnd it probably wasn't spread evenly. Most likely a handful of accounts lost 50% – 100% of their points for inorganic activity.\n\n🔹Here's how to avoid that while farming @TxFlow_L1 and @risextrade:\n\nDon't open and close trades instantly. You burn a fortune on fees, and it's obvious you're only there to build volume.\n\nOpen a delta neutral across 2 different perp dexes and hold it for over an hour.\n\nActually try to make money. This is what perp dexes want: organic trading. \n\nWhether it's a 30 minute trade or a 5 hour one, if you're genuinely aiming for positive PnL it won't get flagged. \n\nWith a pure DN you end up losing your money to fees. If you place some directional bets like this you can end up breaking even.\n\nIf you're any good at trading, that is.",
+          "id": "2088677240057864454",
+          "url": "https://x.com/BraveX_DeFi/status/2088677240057864454",
+          "views": 488,
+          "likes": 8
+        },
+        {
+          "text": "New listings on @risextrade!!\n\nYet again both of them RWAs. Be careful because just because it is a new listing doesn’t mean they are endorsing it.\n\nDo your own research.",
+          "id": "2087482772944191542",
+          "url": "https://x.com/BraveX_DeFi/status/2087482772944191542",
+          "views": 448,
+          "likes": 8
+        },
+        {
+          "text": "@risextrade They didn't disappoint. Looking for a $10 valuation per point 👀",
+          "id": "2080296383773303030",
+          "url": "https://x.com/BraveX_DeFi/status/2080296383773303030",
+          "views": 436,
+          "likes": 2
+        },
+        {
+          "text": "@risextrade Cool features, we will see how the retro points turn out",
+          "id": "2079568017654960178",
+          "url": "https://x.com/BraveX_DeFi/status/2079568017654960178",
+          "views": 277,
+          "likes": 1
+        },
+        {
+          "text": "@risextrade RISEUP! 🚀🚀🚀",
+          "id": "2080299403189899577",
+          "url": "https://x.com/BraveX_DeFi/status/2080299403189899577",
+          "views": 269,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "1951949545824235520",
       "name": "Icarus Finance",
       "handle": "Icarus_Fi",
@@ -7381,57 +7432,6 @@
           "url": "https://x.com/hitasyurek/status/2065878884843733258",
           "views": 86,
           "likes": 1
-        }
-      ]
-    },
-    {
-      "id": "2073048856393302016",
-      "name": "BraveX",
-      "handle": "BraveX_DeFi",
-      "followers": 121,
-      "avatar": "https://pbs.twimg.com/profile_images/2075368998187716608/mhfvvHif_normal.jpg",
-      "views": 3081,
-      "likes": 36,
-      "posts": 34,
-      "mentions": 34,
-      "keyword": 5,
-      "firstPost": "Mon Jul 13 00:03:17 +0000 2026",
-      "lastPost": "Fri Aug 14 13:20:05 +0000 2026",
-      "topPosts": [
-        {
-          "text": "New listings on @risextrade!!\n\nYet again both of them RWAs. Be careful because just because it is a new listing doesn’t mean they are endorsing it.\n\nDo your own research.",
-          "id": "2087482772944191542",
-          "url": "https://x.com/BraveX_DeFi/status/2087482772944191542",
-          "views": 448,
-          "likes": 8
-        },
-        {
-          "text": "@risextrade They didn't disappoint. Looking for a $10 valuation per point 👀",
-          "id": "2080296383773303030",
-          "url": "https://x.com/BraveX_DeFi/status/2080296383773303030",
-          "views": 436,
-          "likes": 2
-        },
-        {
-          "text": "@risextrade Cool features, we will see how the retro points turn out",
-          "id": "2079568017654960178",
-          "url": "https://x.com/BraveX_DeFi/status/2079568017654960178",
-          "views": 277,
-          "likes": 1
-        },
-        {
-          "text": "@risextrade RISEUP! 🚀🚀🚀",
-          "id": "2080299403189899577",
-          "url": "https://x.com/BraveX_DeFi/status/2080299403189899577",
-          "views": 269,
-          "likes": 1
-        },
-        {
-          "text": "@risextrade my boss is about to lose his best employee🚀",
-          "id": "2076650034360152463",
-          "url": "https://x.com/BraveX_DeFi/status/2076650034360152463",
-          "views": 212,
-          "likes": 2
         }
       ]
     },
@@ -8745,6 +8745,57 @@
       ]
     },
     {
+      "id": "1001652402527916035",
+      "name": "Shinkiro",
+      "handle": "ShinKiro14",
+      "followers": 1766,
+      "avatar": "https://pbs.twimg.com/profile_images/1964057071772389377/ZSwQhfEe_normal.jpg",
+      "views": 2242,
+      "likes": 54,
+      "posts": 16,
+      "mentions": 16,
+      "keyword": 0,
+      "firstPost": "Wed Jun 03 01:41:55 +0000 2026",
+      "lastPost": "Sat Aug 15 17:55:36 +0000 2026",
+      "topPosts": [
+        {
+          "text": "just crossed $100k in volume on @risextrade using @tread_fi \n\nsettings: normal, 10x lev, dgrid. the rest are by default\n\ni hope the team will quickly add ethereum:0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2, several users have requested it on their DC\n\nhttps://t.co/C8wB3qUyWG\n\ninvite code: 8WD9WIMI",
+          "id": "2061986709206663476",
+          "url": "https://x.com/ShinKiro14/status/2061986709206663476",
+          "views": 956,
+          "likes": 25
+        },
+        {
+          "text": "received 144 retroactive points from @risextrade for ≈300k in volume\n\nstarted with the volume bot on @tread_fi before going back to my DN antics for funding and fewer trades\n\nthis point season will end no later than Q2 2027, but early accumulation is the name of the game https://t.co/RYKkeXFzOL",
+          "id": "2080677657931333827",
+          "url": "https://x.com/ShinKiro14/status/2080677657931333827",
+          "views": 231,
+          "likes": 4
+        },
+        {
+          "text": "a great way to boost points on tokenless perps is trading new pairs on their listing day\n\nthat's why i rushed to open positions for $MU and $DRAM on @risextrade https://t.co/2ybbYi95gt",
+          "id": "2085455386610413672",
+          "url": "https://x.com/ShinKiro14/status/2085455386610413672",
+          "views": 176,
+          "likes": 3
+        },
+        {
+          "text": "+30$ in funding on CXMT in the last 24h!\n\ni'm running this DN setup between sodex and lighter\n\nbut i want to see more RWA listings on @risextrade for those precious points, as their formula seems to favor organic trading with prolonged holding time https://t.co/1pi8bmvF0C",
+          "id": "2081977117080695069",
+          "url": "https://x.com/ShinKiro14/status/2081977117080695069",
+          "views": 175,
+          "likes": 4
+        },
+        {
+          "text": "picking up from my recent post, i would advise you to trade $QQQ and $SPY on @risextrade\n\ni got 24 points last week despite low trading volume, as i focused on newly listed assets then low OI (if possible) https://t.co/6AAbIK0nwB",
+          "id": "2088632338414448648",
+          "url": "https://x.com/ShinKiro14/status/2088632338414448648",
+          "views": 162,
+          "likes": 5
+        }
+      ]
+    },
+    {
       "id": "1852591140287258624",
       "name": "dikdik",
       "handle": "dikbayhaki",
@@ -9051,57 +9102,6 @@
       ]
     },
     {
-      "id": "1001652402527916035",
-      "name": "Shinkiro",
-      "handle": "ShinKiro14",
-      "followers": 1774,
-      "avatar": "https://pbs.twimg.com/profile_images/1964057071772389377/ZSwQhfEe_normal.jpg",
-      "views": 2072,
-      "likes": 49,
-      "posts": 14,
-      "mentions": 14,
-      "keyword": 0,
-      "firstPost": "Wed Jun 03 01:41:55 +0000 2026",
-      "lastPost": "Thu Aug 06 19:58:04 +0000 2026",
-      "topPosts": [
-        {
-          "text": "just crossed $100k in volume on @risextrade using @tread_fi \n\nsettings: normal, 10x lev, dgrid. the rest are by default\n\ni hope the team will quickly add ethereum:0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2, several users have requested it on their DC\n\nhttps://t.co/C8wB3qUyWG\n\ninvite code: 8WD9WIMI",
-          "id": "2061986709206663476",
-          "url": "https://x.com/ShinKiro14/status/2061986709206663476",
-          "views": 956,
-          "likes": 25
-        },
-        {
-          "text": "received 144 retroactive points from @risextrade for ≈300k in volume\n\nstarted with the volume bot on @tread_fi before going back to my DN antics for funding and fewer trades\n\nthis point season will end no later than Q2 2027, but early accumulation is the name of the game https://t.co/RYKkeXFzOL",
-          "id": "2080677657931333827",
-          "url": "https://x.com/ShinKiro14/status/2080677657931333827",
-          "views": 231,
-          "likes": 4
-        },
-        {
-          "text": "a great way to boost points on tokenless perps is trading new pairs on their listing day\n\nthat's why i rushed to open positions for $MU and $DRAM on @risextrade https://t.co/2ybbYi95gt",
-          "id": "2085455386610413672",
-          "url": "https://x.com/ShinKiro14/status/2085455386610413672",
-          "views": 176,
-          "likes": 3
-        },
-        {
-          "text": "+30$ in funding on CXMT in the last 24h!\n\ni'm running this DN setup between sodex and lighter\n\nbut i want to see more RWA listings on @risextrade for those precious points, as their formula seems to favor organic trading with prolonged holding time https://t.co/1pi8bmvF0C",
-          "id": "2081977117080695069",
-          "url": "https://x.com/ShinKiro14/status/2081977117080695069",
-          "views": 175,
-          "likes": 4
-        },
-        {
-          "text": "@risextrade would appreciate a few extra codes for my followers @risextrade @sam_battenally",
-          "id": "2082775766295568812",
-          "url": "https://x.com/ShinKiro14/status/2082775766295568812",
-          "views": 101,
-          "likes": 1
-        }
-      ]
-    },
-    {
       "id": "1394179458286882817",
       "name": "Heiro",
       "handle": "HeiroCapital",
@@ -9401,6 +9401,57 @@
       ]
     },
     {
+      "id": "1819867322636439552",
+      "name": "üweys 🐊",
+      "handle": "uweys_16",
+      "followers": 414,
+      "avatar": "https://pbs.twimg.com/profile_images/2058142477882683392/abZ7ns-K_normal.jpg",
+      "views": 1922,
+      "likes": 39,
+      "posts": 14,
+      "mentions": 14,
+      "keyword": 0,
+      "firstPost": "Mon Jul 27 11:52:28 +0000 2026",
+      "lastPost": "Sat Aug 15 16:53:30 +0000 2026",
+      "topPosts": [
+        {
+          "text": "Kısa durum değerlendirmesi @risextrade  \n\n Bu hafta verilerim:\n• 50K işlem hacmi\n• %93 Win Rate\n• 9 işlem galibiyet serisi\n• +133 PnL\n• 18 puan\n\nBu haftaki puanlamaya baktığımda, hem OI hem de işlem hacminin birlikte önemli olduğu izlenimine vardım.\n\nToplulukta kafa karıştıran konu şu oldu:\n-Referans ödüllerine daha fazla puan mı gidiyor?\nKesinlik olmadığından şimdilik bu konuyu rafa kaldırıyorum... ama aklımın bir köşesinde durmaya devam edecek. \n\nBen ise aynı OI seviyesini koruyup işlem hacmini artırarak devam edeceğim. Bunun gelecek haftaki puanlara nasıl yansıyacağını görmek istiyorum.\n\nSizce puanlamada en büyük etkiyi şu an ne oluşturuyor? 🤔",
+          "id": "2084717336641089896",
+          "url": "https://x.com/uweys_16/status/2084717336641089896",
+          "views": 555,
+          "likes": 9
+        },
+        {
+          "text": "Hızlı yükselişin hızlı düşüşü oluyormuş @risextrade https://t.co/AfkWjncOLU",
+          "id": "2083190776129843582",
+          "url": "https://x.com/uweys_16/status/2083190776129843582",
+          "views": 489,
+          "likes": 10
+        },
+        {
+          "text": "beni @risextrade den ve diğerlerinden soğutan da buydu. Sahte Oİ...\nSırf oi olsun diye \n@risextrade  de btc + eth- \n@TxFlow_L1 da btc- eth+ \npozisyon tutarsın. ve puan alırsın.  Amaa\n\"Biz gerçek kullanıcı arıyoruz\"  Dememeliler!\n28 win trade\n+200pnl\n100k hacim\n 20 puan olmamalı.",
+          "id": "2087997010628481152",
+          "url": "https://x.com/uweys_16/status/2087997010628481152",
+          "views": 167,
+          "likes": 2
+        },
+        {
+          "text": "Madem gerçek kullanıcı istiyor @risextrade ekibi.. öyle olsun. https://t.co/Qs85gh8SJq",
+          "id": "2081977455770849382",
+          "url": "https://x.com/uweys_16/status/2081977455770849382",
+          "views": 156,
+          "likes": 3
+        },
+        {
+          "text": "@deTEfabulaNar_ @variational_io @risextrade @TxFlow_L1 @bulktrade @hibachi_xyz @DecibelTrade @arcus_xyz @OndoPerps @tradehotstuff @miracletrade @liquidtrading @PhoenixTrade @pacifica_fi @reya_xyz ?",
+          "id": "2083679412457807939",
+          "url": "https://x.com/uweys_16/status/2083679412457807939",
+          "views": 154,
+          "likes": 0
+        }
+      ]
+    },
+    {
       "id": "1310653972378656770",
       "name": "Ajay",
       "handle": "Ajay07157091",
@@ -9543,57 +9594,6 @@
           "url": "https://x.com/0xPonzito/status/2080360067602231462",
           "views": 86,
           "likes": 2
-        }
-      ]
-    },
-    {
-      "id": "1819867322636439552",
-      "name": "üweys 🐊",
-      "handle": "uweys_16",
-      "followers": 410,
-      "avatar": "https://pbs.twimg.com/profile_images/2058142477882683392/abZ7ns-K_normal.jpg",
-      "views": 1886,
-      "likes": 39,
-      "posts": 11,
-      "mentions": 11,
-      "keyword": 0,
-      "firstPost": "Mon Jul 27 11:52:28 +0000 2026",
-      "lastPost": "Thu Aug 13 20:17:35 +0000 2026",
-      "topPosts": [
-        {
-          "text": "Kısa durum değerlendirmesi @risextrade  \n\n Bu hafta verilerim:\n• 50K işlem hacmi\n• %93 Win Rate\n• 9 işlem galibiyet serisi\n• +133 PnL\n• 18 puan\n\nBu haftaki puanlamaya baktığımda, hem OI hem de işlem hacminin birlikte önemli olduğu izlenimine vardım.\n\nToplulukta kafa karıştıran konu şu oldu:\n-Referans ödüllerine daha fazla puan mı gidiyor?\nKesinlik olmadığından şimdilik bu konuyu rafa kaldırıyorum... ama aklımın bir köşesinde durmaya devam edecek. \n\nBen ise aynı OI seviyesini koruyup işlem hacmini artırarak devam edeceğim. Bunun gelecek haftaki puanlara nasıl yansıyacağını görmek istiyorum.\n\nSizce puanlamada en büyük etkiyi şu an ne oluşturuyor? 🤔",
-          "id": "2084717336641089896",
-          "url": "https://x.com/uweys_16/status/2084717336641089896",
-          "views": 555,
-          "likes": 9
-        },
-        {
-          "text": "Hızlı yükselişin hızlı düşüşü oluyormuş @risextrade https://t.co/AfkWjncOLU",
-          "id": "2083190776129843582",
-          "url": "https://x.com/uweys_16/status/2083190776129843582",
-          "views": 489,
-          "likes": 10
-        },
-        {
-          "text": "beni @risextrade den ve diğerlerinden soğutan da buydu. Sahte Oİ...\nSırf oi olsun diye \n@risextrade  de btc + eth- \n@TxFlow_L1 da btc- eth+ \npozisyon tutarsın. ve puan alırsın.  Amaa\n\"Biz gerçek kullanıcı arıyoruz\"  Dememeliler!\n28 win trade\n+200pnl\n100k hacim\n 20 puan olmamalı.",
-          "id": "2087997010628481152",
-          "url": "https://x.com/uweys_16/status/2087997010628481152",
-          "views": 167,
-          "likes": 2
-        },
-        {
-          "text": "Madem gerçek kullanıcı istiyor @risextrade ekibi.. öyle olsun. https://t.co/Qs85gh8SJq",
-          "id": "2081977455770849382",
-          "url": "https://x.com/uweys_16/status/2081977455770849382",
-          "views": 156,
-          "likes": 3
-        },
-        {
-          "text": "@deTEfabulaNar_ @variational_io @risextrade @TxFlow_L1 @bulktrade @hibachi_xyz @DecibelTrade @arcus_xyz @OndoPerps @tradehotstuff @miracletrade @liquidtrading @PhoenixTrade @pacifica_fi @reya_xyz ?",
-          "id": "2083679412457807939",
-          "url": "https://x.com/uweys_16/status/2083679412457807939",
-          "views": 154,
-          "likes": 0
         }
       ]
     },
@@ -9862,6 +9862,57 @@
       ]
     },
     {
+      "id": "1922941474024398848",
+      "name": "0xSlyth",
+      "handle": "0xSlyth",
+      "followers": 3980,
+      "avatar": "https://pbs.twimg.com/profile_images/2040050971829841920/RciQrc4v_normal.jpg",
+      "views": 1804,
+      "likes": 38,
+      "posts": 47,
+      "mentions": 47,
+      "keyword": 2,
+      "firstPost": "Mon Jun 08 04:47:53 +0000 2026",
+      "lastPost": "Sat Aug 15 05:20:53 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@louisdives @variational_io @grvt_io @liquidtrading @Ostium @reya_xyz @perpltrade @risextrade @bulktrade @extendedapp @hibachi_xyz funded",
+          "id": "2063845445840048277",
+          "url": "https://x.com/0xSlyth/status/2063845445840048277",
+          "views": 197,
+          "likes": 1
+        },
+        {
+          "text": "@risextrade solid",
+          "id": "2084554022594453984",
+          "url": "https://x.com/0xSlyth/status/2084554022594453984",
+          "views": 93,
+          "likes": 0
+        },
+        {
+          "text": "@OG_Branxi @HyperliquidX @tradexyz @QFEX @get_truenorth @arcus_xyz @perpltrade @bulktrade @OndoPerps @risextrade @ProprXYZ thanks for sharin this",
+          "id": "2085733738248593616",
+          "url": "https://x.com/0xSlyth/status/2085733738248593616",
+          "views": 87,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official bullish on all",
+          "id": "2085732340798791967",
+          "url": "https://x.com/0xSlyth/status/2085732340798791967",
+          "views": 80,
+          "likes": 1
+        },
+        {
+          "text": "@OG_Branxi @variational_io @Lighter_xyz @DecibelTrade @extendedapp @nadoHQ @risextrade @StandX_Official @pacifica_fi @HyperliquidX nice",
+          "id": "2078464311799013631",
+          "url": "https://x.com/0xSlyth/status/2078464311799013631",
+          "views": 78,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "1179877195969449984",
       "name": "sagetega.gwei",
       "handle": "Sage_Tega",
@@ -9945,57 +9996,6 @@
           "id": "2080360797545615610",
           "url": "https://x.com/Roarxprince/status/2080360797545615610",
           "views": 30,
-          "likes": 1
-        }
-      ]
-    },
-    {
-      "id": "1922941474024398848",
-      "name": "0xSlyth",
-      "handle": "0xSlyth",
-      "followers": 3964,
-      "avatar": "https://pbs.twimg.com/profile_images/2040050971829841920/RciQrc4v_normal.jpg",
-      "views": 1758,
-      "likes": 37,
-      "posts": 46,
-      "mentions": 46,
-      "keyword": 2,
-      "firstPost": "Mon Jun 08 04:47:53 +0000 2026",
-      "lastPost": "Fri Aug 14 16:28:22 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@louisdives @variational_io @grvt_io @liquidtrading @Ostium @reya_xyz @perpltrade @risextrade @bulktrade @extendedapp @hibachi_xyz funded",
-          "id": "2063845445840048277",
-          "url": "https://x.com/0xSlyth/status/2063845445840048277",
-          "views": 197,
-          "likes": 1
-        },
-        {
-          "text": "@risextrade solid",
-          "id": "2084554022594453984",
-          "url": "https://x.com/0xSlyth/status/2084554022594453984",
-          "views": 93,
-          "likes": 0
-        },
-        {
-          "text": "@OG_Branxi @HyperliquidX @tradexyz @QFEX @get_truenorth @arcus_xyz @perpltrade @bulktrade @OndoPerps @risextrade @ProprXYZ thanks for sharin this",
-          "id": "2085733738248593616",
-          "url": "https://x.com/0xSlyth/status/2085733738248593616",
-          "views": 87,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official bullish on all",
-          "id": "2085732340798791967",
-          "url": "https://x.com/0xSlyth/status/2085732340798791967",
-          "views": 80,
-          "likes": 1
-        },
-        {
-          "text": "@OG_Branxi @variational_io @Lighter_xyz @DecibelTrade @extendedapp @nadoHQ @risextrade @StandX_Official @pacifica_fi @HyperliquidX nice",
-          "id": "2078464311799013631",
-          "url": "https://x.com/0xSlyth/status/2078464311799013631",
-          "views": 78,
           "likes": 1
         }
       ]
@@ -12467,6 +12467,57 @@
           "url": "https://x.com/MIH_itsonyou/status/2080649161049849988",
           "views": 86,
           "likes": 1
+        }
+      ]
+    },
+    {
+      "id": "1372601605648965632",
+      "name": "Yoliu.hl",
+      "handle": "Yoliu_",
+      "followers": 1423,
+      "avatar": "https://pbs.twimg.com/profile_images/1930399532786790400/AEf_RHP8_normal.jpg",
+      "views": 1242,
+      "likes": 25,
+      "posts": 5,
+      "mentions": 5,
+      "keyword": 1,
+      "firstPost": "Fri Jul 31 19:34:06 +0000 2026",
+      "lastPost": "Sat Aug 15 18:39:32 +0000 2026",
+      "topPosts": [
+        {
+          "text": "pulled the @DefiLlama numbers on the three newest perp venues. Arcus is the only one accelerating, and it's the only one still behind a waitlist.\n\nopen interest since Aug 1:\n\n@arcus_xyz : $8M → $15.3M, +91%\n@risextrade : $35.7M → $43.7M, +22%\n@TxFlow_L1 : $15M → $18M, +20%\n\n7-day average daily volume vs the 23 days before it:\n\n@arcus_xyz : $20.3M → $53.9M/day, 2.66x\n@TxFlow_L1 : $51.3M → $53.4M/day, flat\n@risextrade : $96.2M → $80.4M/day, declining\n\nRISEx still runs the bigger book. but it's shrinking on volume while Arcus nearly tripled its run rate and almost doubled its open interest in two weeks. \n\nVolume declining is normal during summer but arcus is definitely out of the league.\n\nnow remember what Arcus actually is right now. perps are gated. cohorts get let in gradually. roughly 900 active addresses a day. the venue posting these numbers is the one most people literally cannot access yet.\n\nit's not isolated either. Robinhood Chain perps volume is up 49% week over week across the whole chain.\n\nI'm through the waitlist and trading. if you're not in yet, it's free and your past volume builds your rank.\n\nhttps://t.co/BCtPS37eDR\n\nArcus will be worth BILLIONS",
+          "id": "2088650977876254813",
+          "url": "https://x.com/Yoliu_/status/2088650977876254813",
+          "views": 1130,
+          "likes": 24
+        },
+        {
+          "text": "@ayoresearch @risextrade tu vois quoi d'intéressant dans celui ci? j'ai l'impression qu'il est hardpush pour pas grand chose",
+          "id": "2083275028146086320",
+          "url": "https://x.com/Yoliu_/status/2083275028146086320",
+          "views": 42,
+          "likes": 1
+        },
+        {
+          "text": "@retrostrategy @deTEfabulaNar_ @risextrade A fresh new account with 5 followers and nothing to loose as a guarantor??",
+          "id": "2085172482248482980",
+          "url": "https://x.com/Yoliu_/status/2085172482248482980",
+          "views": 32,
+          "likes": 0
+        },
+        {
+          "text": "@yyvvo0 @DefiLlama @arcus_xyz @risextrade @TxFlow_L1 🙌",
+          "id": "2088671680256233558",
+          "url": "https://x.com/Yoliu_/status/2088671680256233558",
+          "views": 25,
+          "likes": 0
+        },
+        {
+          "text": "@0x_lilou @DefiLlama @arcus_xyz @risextrade @TxFlow_L1 Keep praying 🤣🙏",
+          "id": "2088697112213012841",
+          "url": "https://x.com/Yoliu_/status/2088697112213012841",
+          "views": 13,
+          "likes": 0
         }
       ]
     },
@@ -15591,6 +15642,57 @@
       ]
     },
     {
+      "id": "1410630864648564749",
+      "name": "Rahul",
+      "handle": "0xrahulweb3",
+      "followers": 6378,
+      "avatar": "https://pbs.twimg.com/profile_images/1988671293420630017/wlQN6fCJ_normal.jpg",
+      "views": 798,
+      "likes": 14,
+      "posts": 21,
+      "mentions": 21,
+      "keyword": 1,
+      "firstPost": "Mon Jun 29 06:21:25 +0000 2026",
+      "lastPost": "Sat Aug 15 09:54:24 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Curdineth @risextrade Let's go baby",
+          "id": "2080134361048031387",
+          "url": "https://x.com/0xrahulweb3/status/2080134361048031387",
+          "views": 97,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official @perpltrade @TxFlow_L1 Damm to see perp Dex is still alive",
+          "id": "2082460408498294997",
+          "url": "https://x.com/0xrahulweb3/status/2082460408498294997",
+          "views": 83,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade Keep cooking bro",
+          "id": "2082111389100040346",
+          "url": "https://x.com/0xrahulweb3/status/2082111389100040346",
+          "views": 55,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade 👀",
+          "id": "2080874466326827077",
+          "url": "https://x.com/0xrahulweb3/status/2080874466326827077",
+          "views": 52,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade you cooking bro",
+          "id": "2088564958913318922",
+          "url": "https://x.com/0xrahulweb3/status/2088564958913318922",
+          "views": 49,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "1637923342303764480",
       "name": "Tony Nftgustman",
       "handle": "nft_gustman",
@@ -15983,57 +16085,6 @@
           "url": "https://x.com/ruhirudo/status/2080326462649815526",
           "views": 376,
           "likes": 8
-        }
-      ]
-    },
-    {
-      "id": "1410630864648564749",
-      "name": "Rahul",
-      "handle": "0xrahulweb3",
-      "followers": 6326,
-      "avatar": "https://pbs.twimg.com/profile_images/1988671293420630017/wlQN6fCJ_normal.jpg",
-      "views": 749,
-      "likes": 13,
-      "posts": 20,
-      "mentions": 20,
-      "keyword": 1,
-      "firstPost": "Mon Jun 29 06:21:25 +0000 2026",
-      "lastPost": "Wed Aug 05 15:43:11 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@Curdineth @risextrade Let's go baby",
-          "id": "2080134361048031387",
-          "url": "https://x.com/0xrahulweb3/status/2080134361048031387",
-          "views": 97,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official @perpltrade @TxFlow_L1 Damm to see perp Dex is still alive",
-          "id": "2082460408498294997",
-          "url": "https://x.com/0xrahulweb3/status/2082460408498294997",
-          "views": 83,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade Keep cooking bro",
-          "id": "2082111389100040346",
-          "url": "https://x.com/0xrahulweb3/status/2082111389100040346",
-          "views": 55,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade 👀",
-          "id": "2080874466326827077",
-          "url": "https://x.com/0xrahulweb3/status/2080874466326827077",
-          "views": 52,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade @OndoPerps None bc",
-          "id": "2081313114365239770",
-          "url": "https://x.com/0xrahulweb3/status/2081313114365239770",
-          "views": 46,
-          "likes": 1
         }
       ]
     },
@@ -20546,6 +20597,57 @@
       ]
     },
     {
+      "id": "1059139944835309568",
+      "name": "Wasim",
+      "handle": "WasimxWeb3",
+      "followers": 3391,
+      "avatar": "https://pbs.twimg.com/profile_images/1996550451106578433/9G-76ooD_normal.jpg",
+      "views": 511,
+      "likes": 10,
+      "posts": 16,
+      "mentions": 16,
+      "keyword": 0,
+      "firstPost": "Thu Jun 18 14:39:23 +0000 2026",
+      "lastPost": "Sat Aug 15 12:37:29 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official Rest of perps you know not generating Anything\n\nYou already covered best Dexs OI",
+          "id": "2085748287437787209",
+          "url": "https://x.com/WasimxWeb3/status/2085748287437787209",
+          "views": 95,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade I already sidelined from risextrade bro",
+          "id": "2084648182517203347",
+          "url": "https://x.com/WasimxWeb3/status/2084648182517203347",
+          "views": 55,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade Kitna volume tha?",
+          "id": "2088606001029415293",
+          "url": "https://x.com/WasimxWeb3/status/2088606001029415293",
+          "views": 48,
+          "likes": 1
+        },
+        {
+          "text": "@0x_Zaro @risextrade @pacifica_fi @variational_io @OndoPerps Goated",
+          "id": "2067618240717812171",
+          "url": "https://x.com/WasimxWeb3/status/2067618240717812171",
+          "views": 38,
+          "likes": 0
+        },
+        {
+          "text": "@Habibxweb3 @risextrade @pacifica_fi @variational_io @OndoPerps This is alpha",
+          "id": "2067618201069027431",
+          "url": "https://x.com/WasimxWeb3/status/2067618201069027431",
+          "views": 34,
+          "likes": 0
+        }
+      ]
+    },
+    {
       "id": "1454095404019159041",
       "name": "Viktor 🧙",
       "handle": "Viktor32085722",
@@ -21529,57 +21631,6 @@
           "url": "https://x.com/NamOK_bnb/status/2075504893599613067",
           "views": 466,
           "likes": 3
-        }
-      ]
-    },
-    {
-      "id": "1059139944835309568",
-      "name": "Wasim",
-      "handle": "WasimxWeb3",
-      "followers": 3364,
-      "avatar": "https://pbs.twimg.com/profile_images/1996550451106578433/9G-76ooD_normal.jpg",
-      "views": 463,
-      "likes": 9,
-      "posts": 15,
-      "mentions": 15,
-      "keyword": 0,
-      "firstPost": "Thu Jun 18 14:39:23 +0000 2026",
-      "lastPost": "Fri Aug 07 15:21:57 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official Rest of perps you know not generating Anything\n\nYou already covered best Dexs OI",
-          "id": "2085748287437787209",
-          "url": "https://x.com/WasimxWeb3/status/2085748287437787209",
-          "views": 95,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade I already sidelined from risextrade bro",
-          "id": "2084648182517203347",
-          "url": "https://x.com/WasimxWeb3/status/2084648182517203347",
-          "views": 55,
-          "likes": 1
-        },
-        {
-          "text": "@0x_Zaro @risextrade @pacifica_fi @variational_io @OndoPerps Goated",
-          "id": "2067618240717812171",
-          "url": "https://x.com/WasimxWeb3/status/2067618240717812171",
-          "views": 38,
-          "likes": 0
-        },
-        {
-          "text": "@Habibxweb3 @risextrade @pacifica_fi @variational_io @OndoPerps This is alpha",
-          "id": "2067618201069027431",
-          "url": "https://x.com/WasimxWeb3/status/2067618201069027431",
-          "views": 34,
-          "likes": 0
-        },
-        {
-          "text": "@xavierctx @risextrade @pacifica_fi @variational_io @OndoPerps Yeah agree but you can't ignore others",
-          "id": "2067618179095126151",
-          "url": "https://x.com/WasimxWeb3/status/2067618179095126151",
-          "views": 34,
-          "likes": 1
         }
       ]
     },
@@ -24997,6 +25048,57 @@
       ]
     },
     {
+      "id": "1916794329395253248",
+      "name": "Laff",
+      "handle": "Laff38",
+      "followers": 10179,
+      "avatar": "https://pbs.twimg.com/profile_images/2037190027860475904/1YXk31Za_normal.jpg",
+      "views": 359,
+      "likes": 13,
+      "posts": 13,
+      "mentions": 13,
+      "keyword": 6,
+      "firstPost": "Tue Jun 23 07:05:08 +0000 2026",
+      "lastPost": "Sat Aug 15 16:57:54 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@mystcapital @AFX_XYZ @cascade_xyz @risextrade @DriftFDN @dango @AftermathFi @Ostium Crazy to see how much was lost across these platforms. It's a tough time for the DEX community.",
+          "id": "2084540573495533576",
+          "url": "https://x.com/Laff38/status/2084540573495533576",
+          "views": 72,
+          "likes": 1
+        },
+        {
+          "text": "@some4064 @risextrade @DOKDODAO 독도는 10일까지네요... 응원해요!",
+          "id": "2084460642308702293",
+          "url": "https://x.com/Laff38/status/2084460642308702293",
+          "views": 37,
+          "likes": 1
+        },
+        {
+          "text": "@Rakeshshawaskme @risextrade @risechain Impressive growth",
+          "id": "2079189175899693297",
+          "url": "https://x.com/Laff38/status/2079189175899693297",
+          "views": 36,
+          "likes": 1
+        },
+        {
+          "text": "@some4064 @risextrade RISEx 완전 온체인 오더북 가치 있네 주문 다양성도 좋고 RISE Chain 기반도 기대돼요",
+          "id": "2069315803023815067",
+          "url": "https://x.com/Laff38/status/2069315803023815067",
+          "views": 35,
+          "likes": 1
+        },
+        {
+          "text": "@hyenmyeng @risextrade RISEx Perp DEX onchain speed achiever",
+          "id": "2079225996037763319",
+          "url": "https://x.com/Laff38/status/2079225996037763319",
+          "views": 30,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "1741312614322286592",
       "name": "pranayy",
       "handle": "pronoy",
@@ -26018,57 +26120,6 @@
           "id": "2080325439843926167",
           "url": "https://x.com/Zevweb3/status/2080325439843926167",
           "views": 33,
-          "likes": 1
-        }
-      ]
-    },
-    {
-      "id": "1916794329395253248",
-      "name": "Laff",
-      "handle": "Laff38",
-      "followers": 10131,
-      "avatar": "https://pbs.twimg.com/profile_images/2037190027860475904/1YXk31Za_normal.jpg",
-      "views": 339,
-      "likes": 12,
-      "posts": 12,
-      "mentions": 12,
-      "keyword": 5,
-      "firstPost": "Tue Jun 23 07:05:08 +0000 2026",
-      "lastPost": "Fri Aug 14 09:17:58 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@mystcapital @AFX_XYZ @cascade_xyz @risextrade @DriftFDN @dango @AftermathFi @Ostium Crazy to see how much was lost across these platforms. It's a tough time for the DEX community.",
-          "id": "2084540573495533576",
-          "url": "https://x.com/Laff38/status/2084540573495533576",
-          "views": 72,
-          "likes": 1
-        },
-        {
-          "text": "@some4064 @risextrade @DOKDODAO 독도는 10일까지네요... 응원해요!",
-          "id": "2084460642308702293",
-          "url": "https://x.com/Laff38/status/2084460642308702293",
-          "views": 37,
-          "likes": 1
-        },
-        {
-          "text": "@Rakeshshawaskme @risextrade @risechain Impressive growth",
-          "id": "2079189175899693297",
-          "url": "https://x.com/Laff38/status/2079189175899693297",
-          "views": 36,
-          "likes": 1
-        },
-        {
-          "text": "@some4064 @risextrade RISEx 완전 온체인 오더북 가치 있네 주문 다양성도 좋고 RISE Chain 기반도 기대돼요",
-          "id": "2069315803023815067",
-          "url": "https://x.com/Laff38/status/2069315803023815067",
-          "views": 35,
-          "likes": 1
-        },
-        {
-          "text": "@hyenmyeng @risextrade RISEx Perp DEX onchain speed achiever",
-          "id": "2079225996037763319",
-          "url": "https://x.com/Laff38/status/2079225996037763319",
-          "views": 30,
           "likes": 1
         }
       ]
@@ -29025,6 +29076,57 @@
           "id": "2062807148518887728",
           "url": "https://x.com/0xChaoz/status/2062807148518887728",
           "views": 99,
+          "likes": 2
+        }
+      ]
+    },
+    {
+      "id": "1841137467493171209",
+      "name": "Btx",
+      "handle": "btxFYI",
+      "followers": 4258,
+      "avatar": "https://pbs.twimg.com/profile_images/2035087553347686400/SSlP8-J7_normal.jpg",
+      "views": 275,
+      "likes": 7,
+      "posts": 6,
+      "mentions": 6,
+      "keyword": 2,
+      "firstPost": "Mon Aug 03 10:58:35 +0000 2026",
+      "lastPost": "Sat Aug 15 13:51:58 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official Variantonal OI is in billions",
+          "id": "2085735051564876282",
+          "url": "https://x.com/btxFYI/status/2085735051564876282",
+          "views": 74,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade Keep Cooking ok RiseX",
+          "id": "2088624742341468569",
+          "url": "https://x.com/btxFYI/status/2088624742341468569",
+          "views": 56,
+          "likes": 2
+        },
+        {
+          "text": "@Curdineth @risextrade Keep Cooking bro",
+          "id": "2084647454134460725",
+          "url": "https://x.com/btxFYI/status/2084647454134460725",
+          "views": 55,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade That's a good opportunity",
+          "id": "2085007747263995993",
+          "url": "https://x.com/btxFYI/status/2085007747263995993",
+          "views": 46,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @OndoPerps @risextrade Are baap re keher hai yeh to 😁",
+          "id": "2084232455759016125",
+          "url": "https://x.com/btxFYI/status/2084232455759016125",
+          "views": 25,
           "likes": 2
         }
       ]
@@ -32425,57 +32527,6 @@
           "url": "https://x.com/d1pp3r_eth/status/2085733984701395043",
           "views": 20,
           "likes": 1
-        }
-      ]
-    },
-    {
-      "id": "1841137467493171209",
-      "name": "Btx",
-      "handle": "btxFYI",
-      "followers": 4180,
-      "avatar": "https://pbs.twimg.com/profile_images/2035087553347686400/SSlP8-J7_normal.jpg",
-      "views": 219,
-      "likes": 5,
-      "posts": 5,
-      "mentions": 5,
-      "keyword": 1,
-      "firstPost": "Mon Aug 03 10:58:35 +0000 2026",
-      "lastPost": "Fri Aug 07 14:29:22 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@Curdineth @variational_io @pacifica_fi @extendedapp @OndoPerps @risextrade @reya_xyz @nadoHQ @sodex_official Variantonal OI is in billions",
-          "id": "2085735051564876282",
-          "url": "https://x.com/btxFYI/status/2085735051564876282",
-          "views": 74,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade Keep Cooking bro",
-          "id": "2084647454134460725",
-          "url": "https://x.com/btxFYI/status/2084647454134460725",
-          "views": 55,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade That's a good opportunity",
-          "id": "2085007747263995993",
-          "url": "https://x.com/btxFYI/status/2085007747263995993",
-          "views": 46,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @OndoPerps @risextrade Are baap re keher hai yeh to 😁",
-          "id": "2084232455759016125",
-          "url": "https://x.com/btxFYI/status/2084232455759016125",
-          "views": 25,
-          "likes": 2
-        },
-        {
-          "text": "@0Sakuna @risextrade Bullish on RiseX",
-          "id": "2085715582243246248",
-          "url": "https://x.com/btxFYI/status/2085715582243246248",
-          "views": 19,
-          "likes": 0
         }
       ]
     },
@@ -36777,6 +36828,57 @@
       ]
     },
     {
+      "id": "1912964607280398336",
+      "name": "Alexpb1899",
+      "handle": "AlexPb588257",
+      "followers": 31,
+      "avatar": "https://pbs.twimg.com/profile_images/1928925893386190848/ItrUFK75_normal.jpg",
+      "views": 167,
+      "likes": 2,
+      "posts": 16,
+      "mentions": 16,
+      "keyword": 1,
+      "firstPost": "Sat Jun 20 07:33:57 +0000 2026",
+      "lastPost": "Sat Aug 15 18:44:23 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@nanukdb @risextrade 6.63; los rewards van directos a tu cuenta para seguir tradeando??",
+          "id": "2080229254395015272",
+          "url": "https://x.com/AlexPb588257/status/2080229254395015272",
+          "views": 26,
+          "likes": 1
+        },
+        {
+          "text": "@risextrade some codes to enter: 0EJY2UN4 OWFDD3II JE807CH8",
+          "id": "2080396361984282664",
+          "url": "https://x.com/AlexPb588257/status/2080396361984282664",
+          "views": 19,
+          "likes": 0
+        },
+        {
+          "text": "@risextrade code: JE807CH8",
+          "id": "2082261901111611685",
+          "url": "https://x.com/AlexPb588257/status/2082261901111611685",
+          "views": 16,
+          "likes": 0
+        },
+        {
+          "text": "@risextrade some codes: II3XII9G  40RD9BC1",
+          "id": "2082924644592500956",
+          "url": "https://x.com/AlexPb588257/status/2082924644592500956",
+          "views": 16,
+          "likes": 0
+        },
+        {
+          "text": "@risextrade Some invite codes:  0EJY2UN4 RHLCE4NT",
+          "id": "2079643102579413218",
+          "url": "https://x.com/AlexPb588257/status/2079643102579413218",
+          "views": 14,
+          "likes": 0
+        }
+      ]
+    },
+    {
       "id": "1483165018371895299",
       "name": "Yaguar",
       "handle": "Crypto_Yaguar",
@@ -37091,57 +37193,6 @@
           "id": "2082157479702438382",
           "url": "https://x.com/blanklabs_m/status/2082157479702438382",
           "views": 2,
-          "likes": 0
-        }
-      ]
-    },
-    {
-      "id": "1912964607280398336",
-      "name": "Alexpb1899",
-      "handle": "AlexPb588257",
-      "followers": 32,
-      "avatar": "https://pbs.twimg.com/profile_images/1928925893386190848/ItrUFK75_normal.jpg",
-      "views": 165,
-      "likes": 2,
-      "posts": 15,
-      "mentions": 15,
-      "keyword": 1,
-      "firstPost": "Sat Jun 20 07:33:57 +0000 2026",
-      "lastPost": "Fri Aug 07 18:06:46 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@nanukdb @risextrade 6.63; los rewards van directos a tu cuenta para seguir tradeando??",
-          "id": "2080229254395015272",
-          "url": "https://x.com/AlexPb588257/status/2080229254395015272",
-          "views": 26,
-          "likes": 1
-        },
-        {
-          "text": "@risextrade some codes to enter: 0EJY2UN4 OWFDD3II JE807CH8",
-          "id": "2080396361984282664",
-          "url": "https://x.com/AlexPb588257/status/2080396361984282664",
-          "views": 19,
-          "likes": 0
-        },
-        {
-          "text": "@risextrade code: JE807CH8",
-          "id": "2082261901111611685",
-          "url": "https://x.com/AlexPb588257/status/2082261901111611685",
-          "views": 16,
-          "likes": 0
-        },
-        {
-          "text": "@risextrade some codes: II3XII9G  40RD9BC1",
-          "id": "2082924644592500956",
-          "url": "https://x.com/AlexPb588257/status/2082924644592500956",
-          "views": 16,
-          "likes": 0
-        },
-        {
-          "text": "@risextrade Some invite codes:  0EJY2UN4 RHLCE4NT",
-          "id": "2079643102579413218",
-          "url": "https://x.com/AlexPb588257/status/2079643102579413218",
-          "views": 14,
           "likes": 0
         }
       ]
@@ -39829,6 +39880,57 @@
           "url": "https://x.com/QFEX/status/2085842907110736285",
           "views": 143,
           "likes": 2
+        }
+      ]
+    },
+    {
+      "id": "1860267048196001792",
+      "name": "Orihime",
+      "handle": "orihimexweb3",
+      "followers": 1348,
+      "avatar": "https://pbs.twimg.com/profile_images/2060000764920274944/Dkn-q_Vh_normal.jpg",
+      "views": 143,
+      "likes": 5,
+      "posts": 5,
+      "mentions": 5,
+      "keyword": 3,
+      "firstPost": "Mon Aug 03 12:13:26 +0000 2026",
+      "lastPost": "Sat Aug 15 05:47:17 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Curdineth @risextrade hi risex maxii",
+          "id": "2088502769028419821",
+          "url": "https://x.com/orihimexweb3/status/2088502769028419821",
+          "views": 48,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade hi risex maxii ^^",
+          "id": "2085015718303576418",
+          "url": "https://x.com/orihimexweb3/status/2085015718303576418",
+          "views": 44,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @OndoPerps @risextrade you can do it ^^",
+          "id": "2084251294337061049",
+          "url": "https://x.com/orihimexweb3/status/2084251294337061049",
+          "views": 18,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade risex maxi",
+          "id": "2084911665141764489",
+          "url": "https://x.com/orihimexweb3/status/2084911665141764489",
+          "views": 18,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @risextrade no monies for farm",
+          "id": "2084854883392389352",
+          "url": "https://x.com/orihimexweb3/status/2084854883392389352",
+          "views": 15,
+          "likes": 1
         }
       ]
     },
@@ -47898,50 +48000,6 @@
       ]
     },
     {
-      "id": "1860267048196001792",
-      "name": "Orihime",
-      "handle": "orihimexweb3",
-      "followers": 1235,
-      "avatar": "https://pbs.twimg.com/profile_images/2060000764920274944/Dkn-q_Vh_normal.jpg",
-      "views": 95,
-      "likes": 4,
-      "posts": 4,
-      "mentions": 4,
-      "keyword": 2,
-      "firstPost": "Mon Aug 03 12:13:26 +0000 2026",
-      "lastPost": "Wed Aug 05 14:50:59 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@Curdineth @risextrade hi risex maxii ^^",
-          "id": "2085015718303576418",
-          "url": "https://x.com/orihimexweb3/status/2085015718303576418",
-          "views": 44,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @OndoPerps @risextrade you can do it ^^",
-          "id": "2084251294337061049",
-          "url": "https://x.com/orihimexweb3/status/2084251294337061049",
-          "views": 18,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade risex maxi",
-          "id": "2084911665141764489",
-          "url": "https://x.com/orihimexweb3/status/2084911665141764489",
-          "views": 18,
-          "likes": 1
-        },
-        {
-          "text": "@Curdineth @risextrade no monies for farm",
-          "id": "2084854883392389352",
-          "url": "https://x.com/orihimexweb3/status/2084854883392389352",
-          "views": 15,
-          "likes": 1
-        }
-      ]
-    },
-    {
       "id": "1716832027",
       "name": "emrah birinci",
       "handle": "birinci_emrah",
@@ -48597,6 +48655,43 @@
           "id": "2087198098707694073",
           "url": "https://x.com/BilgiKripto1/status/2087198098707694073",
           "views": 92,
+          "likes": 1
+        }
+      ]
+    },
+    {
+      "id": "1813555957424918528",
+      "name": "Farhan",
+      "handle": "Farhan776777",
+      "followers": 1487,
+      "avatar": "https://pbs.twimg.com/profile_images/2082656149888008192/RD6tCQUi_normal.jpg",
+      "views": 92,
+      "likes": 3,
+      "posts": 3,
+      "mentions": 3,
+      "keyword": 0,
+      "firstPost": "Fri Aug 07 15:18:56 +0000 2026",
+      "lastPost": "Sat Aug 15 05:06:48 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Curdineth @risextrade congratulations buddy",
+          "id": "2088492583895068849",
+          "url": "https://x.com/Farhan776777/status/2088492583895068849",
+          "views": 46,
+          "likes": 1
+        },
+        {
+          "text": "@Curdineth @variational_io @extendedapp @tradexyz @arcus_xyz @nadoHQ @PhoenixTrade @pacifica_fi @OndoPerps @risextrade it's really great curdin bro",
+          "id": "2088242463676809653",
+          "url": "https://x.com/Farhan776777/status/2088242463676809653",
+          "views": 41,
+          "likes": 1
+        },
+        {
+          "text": "@0Sakuna @risextrade it's too much",
+          "id": "2085747529459908839",
+          "url": "https://x.com/Farhan776777/status/2085747529459908839",
+          "views": 5,
           "likes": 1
         }
       ]
@@ -53935,36 +54030,6 @@
       ]
     },
     {
-      "id": "1372601605648965632",
-      "name": "Yoliu.hl",
-      "handle": "Yoliu_",
-      "followers": 1388,
-      "avatar": "https://pbs.twimg.com/profile_images/1930399532786790400/AEf_RHP8_normal.jpg",
-      "views": 74,
-      "likes": 1,
-      "posts": 2,
-      "mentions": 2,
-      "keyword": 0,
-      "firstPost": "Fri Jul 31 19:34:06 +0000 2026",
-      "lastPost": "Thu Aug 06 01:13:55 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@ayoresearch @risextrade tu vois quoi d'intéressant dans celui ci? j'ai l'impression qu'il est hardpush pour pas grand chose",
-          "id": "2083275028146086320",
-          "url": "https://x.com/Yoliu_/status/2083275028146086320",
-          "views": 42,
-          "likes": 1
-        },
-        {
-          "text": "@retrostrategy @deTEfabulaNar_ @risextrade A fresh new account with 5 followers and nothing to loose as a guarantor??",
-          "id": "2085172482248482980",
-          "url": "https://x.com/Yoliu_/status/2085172482248482980",
-          "views": 32,
-          "likes": 0
-        }
-      ]
-    },
-    {
       "id": "1421855295710670853",
       "name": "grzonmyneck.exe",
       "handle": "nikitagrizzlie",
@@ -54731,6 +54796,29 @@
           "url": "https://x.com/Muizz008/status/2088276164737483086",
           "views": 6,
           "likes": 0
+        }
+      ]
+    },
+    {
+      "id": "2077791364247420928",
+      "name": "Lemon",
+      "handle": "lemondotfun",
+      "followers": 3954,
+      "avatar": "https://pbs.twimg.com/profile_images/2078862225297518592/8uindHqS_normal.jpg",
+      "views": 72,
+      "likes": 2,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 15:37:18 +0000 2026",
+      "lastPost": "Sat Aug 15 15:37:18 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Yoliu_ @DefiLlama @arcus_xyz @risextrade @TxFlow_L1 doubling open interest with roughly 900 active addresses makes the gradual cohort rollout look unusually efficient",
+          "id": "2088651251391025329",
+          "url": "https://x.com/lemondotfun/status/2088651251391025329",
+          "views": 72,
+          "likes": 2
         }
       ]
     },
@@ -64951,6 +65039,36 @@
       ]
     },
     {
+      "id": "1742352428735905793",
+      "name": "Diogo",
+      "handle": "Diogo18440987",
+      "followers": 392,
+      "avatar": "https://pbs.twimg.com/profile_images/2001411691548950528/Zuz8Gj30_normal.jpg",
+      "views": 48,
+      "likes": 0,
+      "posts": 2,
+      "mentions": 2,
+      "keyword": 0,
+      "firstPost": "Fri Aug 07 23:40:18 +0000 2026",
+      "lastPost": "Sat Aug 15 12:53:22 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@OG_Branxi @HyperliquidX @tradexyz @QFEX @get_truenorth @arcus_xyz @perpltrade @bulktrade @OndoPerps @risextrade @ProprXYZ Hibachi irá me deixar rico",
+          "id": "2085873698540560644",
+          "url": "https://x.com/Diogo18440987/status/2085873698540560644",
+          "views": 32,
+          "likes": 0
+        },
+        {
+          "text": "@deTEfabulaNar_ @variational_io @risextrade @reya_xyz @TxFlow_L1 @pacifica_fi @StandX_Official @hibachi_xyz @OndoPerps @arcus_xyz @Lighter_xyz 💸💸💸",
+          "id": "2088609996317601833",
+          "url": "https://x.com/Diogo18440987/status/2088609996317601833",
+          "views": 16,
+          "likes": 0
+        }
+      ]
+    },
+    {
       "id": "1463713781675171841",
       "name": "CarlP",
       "handle": "StarLord_981924",
@@ -66123,36 +66241,6 @@
       ]
     },
     {
-      "id": "1813555957424918528",
-      "name": "Farhan",
-      "handle": "Farhan776777",
-      "followers": 1481,
-      "avatar": "https://pbs.twimg.com/profile_images/2082656149888008192/RD6tCQUi_normal.jpg",
-      "views": 46,
-      "likes": 2,
-      "posts": 2,
-      "mentions": 2,
-      "keyword": 0,
-      "firstPost": "Fri Aug 07 15:18:56 +0000 2026",
-      "lastPost": "Fri Aug 14 12:32:55 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@Curdineth @variational_io @extendedapp @tradexyz @arcus_xyz @nadoHQ @PhoenixTrade @pacifica_fi @OndoPerps @risextrade it's really great curdin bro",
-          "id": "2088242463676809653",
-          "url": "https://x.com/Farhan776777/status/2088242463676809653",
-          "views": 41,
-          "likes": 1
-        },
-        {
-          "text": "@0Sakuna @risextrade it's too much",
-          "id": "2085747529459908839",
-          "url": "https://x.com/Farhan776777/status/2085747529459908839",
-          "views": 5,
-          "likes": 1
-        }
-      ]
-    },
-    {
       "id": "3559128439",
       "name": "ニトロ",
       "handle": "hukugyou49bbs",
@@ -66636,6 +66724,29 @@
           "text": "@philarmonia0x @risextrade @QFEX soon :)",
           "id": "2087999113854062621",
           "url": "https://x.com/moonshot6666/status/2087999113854062621",
+          "views": 45,
+          "likes": 1
+        }
+      ]
+    },
+    {
+      "id": "1513105791800291332",
+      "name": "pol0",
+      "handle": "0xpol06",
+      "followers": 909,
+      "avatar": "https://pbs.twimg.com/profile_images/2036812701708759040/q7iVyIgL_normal.jpg",
+      "views": 45,
+      "likes": 1,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 15:53:33 +0000 2026",
+      "lastPost": "Sat Aug 15 15:53:33 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Yoliu_ @DefiLlama @arcus_xyz @risextrade @TxFlow_L1 obvious move imo",
+          "id": "2088655340489339367",
+          "url": "https://x.com/0xpol06/status/2088655340489339367",
           "views": 45,
           "likes": 1
         }
@@ -67383,6 +67494,29 @@
           "text": "Top 10 traders by 30-day PnL on @risextrade\n\n10,237 traders were active in the window.\n\nWhat stands out:\n\n• #1 is up $20.8K at a 20,755% ROI — the ROI formula floors starting equity at $100, so this is close to a hundred-bucks-to-$20K run.\n• #6 has a 100% win rate across 25 trades.\n• #8 wins 4% of the time — and still made $10.6K over 33,421 trades.\n\nFull leaderboard:\n\n1️⃣ 0x123f…4919\n💰 +$20.8K\n🎯 871 trades · 33% win rate · ROI 20,755%\n\n2️⃣ 0x2F69…310e\n💰 +$12.9K\n🎯 1,468 trades · 76% win rate · ROI 12,886%\n\n3️⃣ 0x7C6b…58a0\n💰 +$12.7K\n🎯 31,690 trades · 49% win rate · ROI 12,677%\n\n4️⃣ 0x371e…B2C7\n💰 +$11.9K\n🎯 777 trades · 43% win rate · ROI 11,911%\n\n5️⃣ 0x535F…5A1b\n💰 +$11.7K\n🎯 1,189 trades · 96% win rate · ROI 100%\n\n6️⃣ 0xec40…D414\n💰 +$11.6K\n🎯 25 trades · 100% win rate · ROI 751%\n\n7️⃣ 0xE506…b122\n💰 +$10.9K\n🎯 191 trades · 100% win rate · ROI 115%\n\n8️⃣ 0xB002…ed8a\n💰 +$10.6K\n🎯 33,421 trades · 4% win rate · ROI 10,556%\n\n9️⃣ 0x6bfa…08f3\n💰 +$10.1K\n🎯 118 trades · 82% win rate · ROI 10,072%\n\n🔟 0x679f…F59A\n💰 +$8.4K\n🎯 478 trades · 100% win rate · ROI 17%\n\nSource: RISEx official API\nAs of: Aug 12, 2026\nWindow: rolling 30 days · ROI = PnL / max($100, starting equity + deposits)",
           "id": "2087640273040122007",
           "url": "https://x.com/billy__trader/status/2087640273040122007",
+          "views": 44,
+          "likes": 0
+        }
+      ]
+    },
+    {
+      "id": "2389843968",
+      "name": "BALP♦️",
+      "handle": "bernardhopaggi",
+      "followers": 1512,
+      "avatar": "https://pbs.twimg.com/profile_images/2007971336832913411/Pd7eCjCD_normal.jpg",
+      "views": 44,
+      "likes": 0,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 01:53:53 +0000 2026",
+      "lastPost": "Sat Aug 15 01:53:53 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@deTEfabulaNar_ @variational_io @risextrade @reya_xyz @TxFlow_L1 @pacifica_fi @StandX_Official @hibachi_xyz @OndoPerps @arcus_xyz @Lighter_xyz Think arcus gonna be the best one",
+          "id": "2088444032842084832",
+          "url": "https://x.com/bernardhopaggi/status/2088444032842084832",
           "views": 44,
           "likes": 0
         }
@@ -69495,6 +69629,36 @@
       ]
     },
     {
+      "id": "1865217575128268800",
+      "name": "Sahill",
+      "handle": "SahilVishnaliya",
+      "followers": 1993,
+      "avatar": "https://pbs.twimg.com/profile_images/2064206212305211392/JHnHKHrE_normal.jpg",
+      "views": 40,
+      "likes": 2,
+      "posts": 2,
+      "mentions": 2,
+      "keyword": 0,
+      "firstPost": "Mon Jun 08 02:55:33 +0000 2026",
+      "lastPost": "Sat Aug 15 07:06:29 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@fenixx5x @Lighter_xyz @variational_io @risextrade yo bro, check out your dm's",
+          "id": "2063817175451017626",
+          "url": "https://x.com/SahilVishnaliya/status/2063817175451017626",
+          "views": 26,
+          "likes": 1
+        },
+        {
+          "text": "@eltiodelbaneo @risextrade bro tf 💀",
+          "id": "2088522702608912683",
+          "url": "https://x.com/SahilVishnaliya/status/2088522702608912683",
+          "views": 14,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "2993752443",
       "name": "Cube🧊",
       "handle": "cubeOnChain",
@@ -69908,6 +70072,29 @@
           "url": "https://x.com/0xkyliekim/status/2072527320787898773",
           "views": 9,
           "likes": 0
+        }
+      ]
+    },
+    {
+      "id": "1645259202447679489",
+      "name": "Andy Dapp",
+      "handle": "AndyDapp",
+      "followers": 165,
+      "avatar": "https://pbs.twimg.com/profile_images/1693364522944249857/qdho1fOp_normal.jpg",
+      "views": 39,
+      "likes": 1,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 18:38:37 +0000 2026",
+      "lastPost": "Sat Aug 15 18:38:37 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@BraveX_DeFi @extendedapp @TxFlow_L1 @risextrade Right, don't do wash trading.",
+          "id": "2088696884005404812",
+          "url": "https://x.com/AndyDapp/status/2088696884005404812",
+          "views": 39,
+          "likes": 1
         }
       ]
     },
@@ -72164,6 +72351,57 @@
       ]
     },
     {
+      "id": "1846161889719623680",
+      "name": "MEWO",
+      "handle": "purrnekoo",
+      "followers": 7110,
+      "avatar": "https://pbs.twimg.com/profile_images/2023073910770823168/Df_476o1_normal.jpg",
+      "views": 35,
+      "likes": 5,
+      "posts": 6,
+      "mentions": 6,
+      "keyword": 0,
+      "firstPost": "Wed Jul 29 07:39:26 +0000 2026",
+      "lastPost": "Sat Aug 15 17:53:06 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@hyenmyeng @risextrade @DOKDODAO 체결 속도 체감 확실하네요",
+          "id": "2083873377325064464",
+          "url": "https://x.com/purrnekoo/status/2083873377325064464",
+          "views": 10,
+          "likes": 1
+        },
+        {
+          "text": "@gridonbtc @arbital_xyz @pacifica_fi @risextrade 손가락 아픈 수동 파밍 탈출인가요 ㄷㄷ",
+          "id": "2088685428580962406",
+          "url": "https://x.com/purrnekoo/status/2088685428580962406",
+          "views": 9,
+          "likes": 0
+        },
+        {
+          "text": "@hyenmyeng @risextrade @DOKDODAO 덱스가 금융 인프라가 된다니 상상만 해도 설레네요ㅎㅎ",
+          "id": "2083533704018993598",
+          "url": "https://x.com/purrnekoo/status/2083533704018993598",
+          "views": 6,
+          "likes": 1
+        },
+        {
+          "text": "@hyenmyeng @risextrade 체결 신뢰성이 진짜 중요하죠 유동성 깊이 기대되네요",
+          "id": "2083105550125212047",
+          "url": "https://x.com/purrnekoo/status/2083105550125212047",
+          "views": 4,
+          "likes": 1
+        },
+        {
+          "text": "@hyenmyeng @risextrade @DOKDODAO 시즌 1에서 사용자가 계속 남는 이유를 보여주면 전환점이겠네요",
+          "id": "2082370398034026695",
+          "url": "https://x.com/purrnekoo/status/2082370398034026695",
+          "views": 3,
+          "likes": 1
+        }
+      ]
+    },
+    {
       "id": "1688116792462307328",
       "name": "Akash",
       "handle": "Akasheth_",
@@ -74060,29 +74298,6 @@
       ]
     },
     {
-      "id": "1742352428735905793",
-      "name": "Diogo",
-      "handle": "Diogo18440987",
-      "followers": 393,
-      "avatar": "https://pbs.twimg.com/profile_images/2001411691548950528/Zuz8Gj30_normal.jpg",
-      "views": 32,
-      "likes": 0,
-      "posts": 1,
-      "mentions": 1,
-      "keyword": 0,
-      "firstPost": "Fri Aug 07 23:40:18 +0000 2026",
-      "lastPost": "Fri Aug 07 23:40:18 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@OG_Branxi @HyperliquidX @tradexyz @QFEX @get_truenorth @arcus_xyz @perpltrade @bulktrade @OndoPerps @risextrade @ProprXYZ Hibachi irá me deixar rico",
-          "id": "2085873698540560644",
-          "url": "https://x.com/Diogo18440987/status/2085873698540560644",
-          "views": 32,
-          "likes": 0
-        }
-      ]
-    },
-    {
       "id": "1966450824219176960",
       "name": "darkarc.eth",
       "handle": "0xdarkarc",
@@ -74102,6 +74317,29 @@
           "url": "https://x.com/0xdarkarc/status/2086847845664264688",
           "views": 32,
           "likes": 2
+        }
+      ]
+    },
+    {
+      "id": "2045913993168998400",
+      "name": "Lilou",
+      "handle": "0x_lilou",
+      "followers": 10,
+      "avatar": "https://pbs.twimg.com/profile_images/2081427837282594816/KUiS51jT_normal.jpg",
+      "views": 32,
+      "likes": 1,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 18:37:25 +0000 2026",
+      "lastPost": "Sat Aug 15 18:37:25 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@Yoliu_ @DefiLlama @arcus_xyz @risextrade @TxFlow_L1 I’m still waiting in the waitliiiiiiist",
+          "id": "2088696580127810015",
+          "url": "https://x.com/0x_lilou/status/2088696580127810015",
+          "views": 32,
+          "likes": 1
         }
       ]
     },
@@ -77442,29 +77680,6 @@
       ]
     },
     {
-      "id": "1865217575128268800",
-      "name": "Sahill",
-      "handle": "SahilVishnaliya",
-      "followers": 1155,
-      "avatar": "https://pbs.twimg.com/profile_images/2064206212305211392/JHnHKHrE_normal.jpg",
-      "views": 26,
-      "likes": 1,
-      "posts": 1,
-      "mentions": 1,
-      "keyword": 0,
-      "firstPost": "Mon Jun 08 02:55:33 +0000 2026",
-      "lastPost": "Mon Jun 08 02:55:33 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@fenixx5x @Lighter_xyz @variational_io @risextrade yo bro, check out your dm's",
-          "id": "2063817175451017626",
-          "url": "https://x.com/SahilVishnaliya/status/2063817175451017626",
-          "views": 26,
-          "likes": 1
-        }
-      ]
-    },
-    {
       "id": "226933097",
       "name": "Rafa Moya",
       "handle": "rafamoyaquerol",
@@ -78070,57 +78285,6 @@
       ]
     },
     {
-      "id": "1846161889719623680",
-      "name": "MEWO",
-      "handle": "purrnekoo",
-      "followers": 4940,
-      "avatar": "https://pbs.twimg.com/profile_images/2023073910770823168/Df_476o1_normal.jpg",
-      "views": 26,
-      "likes": 5,
-      "posts": 5,
-      "mentions": 5,
-      "keyword": 0,
-      "firstPost": "Wed Jul 29 07:39:26 +0000 2026",
-      "lastPost": "Sun Aug 02 11:11:44 +0000 2026",
-      "topPosts": [
-        {
-          "text": "@hyenmyeng @risextrade @DOKDODAO 체결 속도 체감 확실하네요",
-          "id": "2083873377325064464",
-          "url": "https://x.com/purrnekoo/status/2083873377325064464",
-          "views": 10,
-          "likes": 1
-        },
-        {
-          "text": "@hyenmyeng @risextrade @DOKDODAO 덱스가 금융 인프라가 된다니 상상만 해도 설레네요ㅎㅎ",
-          "id": "2083533704018993598",
-          "url": "https://x.com/purrnekoo/status/2083533704018993598",
-          "views": 6,
-          "likes": 1
-        },
-        {
-          "text": "@hyenmyeng @risextrade 체결 신뢰성이 진짜 중요하죠 유동성 깊이 기대되네요",
-          "id": "2083105550125212047",
-          "url": "https://x.com/purrnekoo/status/2083105550125212047",
-          "views": 4,
-          "likes": 1
-        },
-        {
-          "text": "@hyenmyeng @risextrade @DOKDODAO 시즌 1에서 사용자가 계속 남는 이유를 보여주면 전환점이겠네요",
-          "id": "2082370398034026695",
-          "url": "https://x.com/purrnekoo/status/2082370398034026695",
-          "views": 3,
-          "likes": 1
-        },
-        {
-          "text": "@hyenmyeng @risextrade 투명성이 진짜 무기죠",
-          "id": "2083234235108995291",
-          "url": "https://x.com/purrnekoo/status/2083234235108995291",
-          "views": 3,
-          "likes": 1
-        }
-      ]
-    },
-    {
       "id": "1056859812665843712",
       "name": "菠萝",
       "handle": "ninglee16",
@@ -78283,6 +78447,29 @@
           "url": "https://x.com/Zero_Arb/status/2087911273681842281",
           "views": 26,
           "likes": 1
+        }
+      ]
+    },
+    {
+      "id": "870618157320249344",
+      "name": "Ducktuma",
+      "handle": "Ducktumay",
+      "followers": 1460,
+      "avatar": "https://pbs.twimg.com/profile_images/2016094228950953985/gxTGeBm-_normal.jpg",
+      "views": 26,
+      "likes": 0,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 18:41:48 +0000 2026",
+      "lastPost": "Sat Aug 15 18:41:48 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@deTEfabulaNar_ @variational_io @risextrade @reya_xyz @TxFlow_L1 @pacifica_fi @StandX_Official @hibachi_xyz @OndoPerps @arcus_xyz @Lighter_xyz Let’s try @DecibelTrade sir",
+          "id": "2088697682835693769",
+          "url": "https://x.com/Ducktumay/status/2088697682835693769",
+          "views": 26,
+          "likes": 0
         }
       ]
     },
@@ -97570,6 +97757,52 @@
       ]
     },
     {
+      "id": "1669348510272212993",
+      "name": "Mascatemores",
+      "handle": "mascatemores",
+      "followers": 183,
+      "avatar": "https://pbs.twimg.com/profile_images/2030630316889546752/nXdGFALu_normal.jpg",
+      "views": 6,
+      "likes": 1,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 20:23:49 +0000 2026",
+      "lastPost": "Sat Aug 15 20:23:49 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@SmartDropFarmer @risextrade @TxFlow_L1 100%",
+          "id": "2088723358326181999",
+          "url": "https://x.com/mascatemores/status/2088723358326181999",
+          "views": 6,
+          "likes": 1
+        }
+      ]
+    },
+    {
+      "id": "1097076744",
+      "name": "qaizimi",
+      "handle": "qaizimi",
+      "followers": 43484,
+      "avatar": "https://pbs.twimg.com/profile_images/2061760842924949504/xrXnz8r-_normal.jpg",
+      "views": 6,
+      "likes": 0,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 10:43:32 +0000 2026",
+      "lastPost": "Sat Aug 15 10:43:32 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@risextrade Good app but why it’s on Rise Chain",
+          "id": "2088577324946239537",
+          "url": "https://x.com/qaizimi/status/2088577324946239537",
+          "views": 6,
+          "likes": 0
+        }
+      ]
+    },
+    {
       "id": "1646911464454643721",
       "name": "Travis Nelson",
       "handle": "TravisN9144363",
@@ -98576,6 +98809,29 @@
           "text": "@beingivish @splitmarkets @risextrade @katanaperps",
           "id": "2087592815081726232",
           "url": "https://x.com/Billyjitsu/status/2087592815081726232",
+          "views": 5,
+          "likes": 0
+        }
+      ]
+    },
+    {
+      "id": "1072037946",
+      "name": "Micheal",
+      "handle": "Micheal_met",
+      "followers": 12,
+      "avatar": "https://pbs.twimg.com/profile_images/2047980135522197504/7mumeNuj_normal.jpg",
+      "views": 5,
+      "likes": 0,
+      "posts": 1,
+      "mentions": 1,
+      "keyword": 0,
+      "firstPost": "Sat Aug 15 06:17:16 +0000 2026",
+      "lastPost": "Sat Aug 15 06:17:16 +0000 2026",
+      "topPosts": [
+        {
+          "text": "@rauliqer @risextrade Drop a line if you claimed one so others know",
+          "id": "2088510317009478079",
+          "url": "https://x.com/Micheal_met/status/2088510317009478079",
           "views": 5,
           "likes": 0
         }
